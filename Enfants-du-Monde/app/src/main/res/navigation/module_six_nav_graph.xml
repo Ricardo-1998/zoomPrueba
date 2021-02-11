@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/module_six_nav_graph.xml"
+    app:startDestination="@id/m6P1Fragment">
+
+    <fragment
+        android:id="@+id/m6P1Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_one.M6P1Fragment"
+        android:label="M6P1Fragment"
+        tools:layout="@layout/fragment_m6_p1">
+        <action
+            android:id="@+id/openM6P2"
+            app:destination="@id/m6P2Fragment" />
+        <action
+            android:id="@+id/openM6P4fromP1"
+            app:destination="@id/m6P4" />
+        <action
+            android:id="@+id/openM6P5fromP1"
+            app:destination="@id/m6P5" />
+        <action
+            android:id="@+id/openM6P8fromP1"
+            app:destination="@id/m6P8Fragment" />
+        <action
+            android:id="@+id/openM6P9fromP1"
+            app:destination="@id/m6P9Fragment" />
+        <action
+            android:id="@+id/openM6P11fromP1"
+            app:destination="@id/m6P11Fragment" />
+        <action
+            android:id="@+id/openM6P12fromP1"
+            app:destination="@id/m6P12Fragment" />
+        <action
+            android:id="@+id/openM6P13fromP1"
+            app:destination="@id/m6P13Fragment" />
+        <action
+            android:id="@+id/openM6P14fromP1"
+            app:destination="@id/m6P14Fragment" />
+        <action
+            android:id="@+id/openM6P15fromP1"
+            app:destination="@id/m6P15Fragment" />
+        <action
+            android:id="@+id/openM6P17fromP1"
+            app:destination="@id/m6P17" />
+        <action
+            android:id="@+id/openM6P19fromP1"
+            app:destination="@id/m6P19" />
+        <action
+            android:id="@+id/openM6P20fromP1"
+            app:destination="@id/m6P20" />
+        <action
+            android:id="@+id/openM6P21from1"
+            app:destination="@id/m6P21Fragment" />
+        <action
+            android:id="@+id/openM6P22from1"
+            app:destination="@id/m6P22" />
+        <action
+            android:id="@+id/openM6P23from1"
+            app:destination="@id/m6P23" />
+        <action
+            android:id="@+id/openM6P25from1"
+            app:destination="@id/m6P25" />
+        <action
+            android:id="@+id/openM6P26from1"
+            app:destination="@id/m6P26" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m6P6Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_six.M6P6Fragment"
+        android:label="M6P6Fragment"
+        tools:layout="@layout/fragment_m6_p6">
+        <action
+            android:id="@+id/openM6P7"
+            app:destination="@id/m6P7Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P7Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_seven.M6P7Fragment"
+        android:label="M6P7Fragment"
+        tools:layout="@layout/fragment_m6_p7">
+        <action
+            android:id="@+id/openM6P8"
+            app:destination="@id/m6P8Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P8Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_eight.M6P8Fragment"
+        android:label="M6P8Fragment"
+        tools:layout="@layout/fragment_m6_p8">
+        <action
+            android:id="@+id/openM6P9"
+            app:destination="@id/m6P9Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P9Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_nine.M6P9Fragment"
+        android:label="M6P9Fragment"
+        tools:layout="@layout/fragment_m6_p9">
+        <action
+            android:id="@+id/openM6P10"
+            app:destination="@id/m6P10Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P10Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_ten.M6P10Fragment"
+        android:label="M6P10Fragment"
+        tools:layout="@layout/fragment_m6_p10">
+        <action
+            android:id="@+id/openM6P11"
+            app:destination="@id/m6P11Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P16"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_sixteen.M6P16"
+        android:label="M6P16"
+        tools:layout="@layout/fragment_m6_p16">
+        <action
+            android:id="@+id/openM6P17"
+            app:destination="@id/m6P17" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P17"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_seventeen.M6P17"
+        android:label="M6P17"
+        tools:layout="@layout/fragment_m6_p17">
+        <action
+            android:id="@+id/openM6P18"
+            app:destination="@id/m6P18" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P18"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_eighteen.M6P18"
+        android:label="M6P18"
+        tools:layout="@layout/fragment_m6_p18">
+        <action
+            android:id="@+id/openM6P19"
+            app:destination="@id/m6P19" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P19"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_nineteen.M6P19"
+        android:label="M6P19"
+        tools:layout="@layout/fragment_m6_p19">
+        <action
+            android:id="@+id/openM6P20"
+            app:destination="@id/m6P20" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P20"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty.M6P20"
+        android:label="M6P20"
+        tools:layout="@layout/fragment_m6_p20"
+        >
+        <action
+            android:id="@+id/openM6P21"
+            app:destination="@id/m6P21Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P3"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_three.M6P3"
+        android:label="M6P3"
+        tools:layout="@layout/fragment_m6_p3">
+        <action
+            android:id="@+id/openM6P4"
+            app:destination="@id/m6P4" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P4"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_four.M6P4"
+        android:label="M6P4"
+        tools:layout="@layout/fragment_m6_p4">
+        <action
+            android:id="@+id/openM6P5"
+            app:destination="@id/m6P5" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P5"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_five.M6P5"
+        android:label="M6P5"
+        tools:layout="@layout/fragment_m6_p5">
+        <action
+            android:id="@+id/openM6P6"
+            app:destination="@id/m6P6Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m6P2Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_two.M6P2Fragment"
+        android:label="M6P2Fragment"
+        tools:layout="@layout/fragment_m6_p1">
+        <action
+            android:id="@+id/openM6P3"
+            app:destination="@id/m6P3" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P11Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_eleven.M6P11Fragment"
+        android:label="M6P11Fragment"
+        tools:layout="@layout/fragment_m6_p11">
+        <action
+            android:id="@+id/openM6P12"
+            app:destination="@id/m6P12Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P12Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twelve.M6P12Fragment"
+        android:label="M6P12Fragment"
+        tools:layout="@layout/fragment_m6_p12">
+        <action
+            android:id="@+id/openM6P13"
+            app:destination="@id/m6P13Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P13Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_thirteen.M6P13Fragment"
+        android:label="fragment_m6_p13"
+        tools:layout="@layout/fragment_m6_p13" >
+        <action
+            android:id="@+id/openM6P14"
+            app:destination="@id/m6P14Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P14Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_fourteen.M6P14Fragment"
+        android:label="fragment_m6_p14"
+        tools:layout="@layout/fragment_m6_p14" >
+        <action
+            android:id="@+id/openM6P15"
+            app:destination="@id/m6P15Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P15Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_fifteen.M6P15Fragment"
+        android:label="fragment_m6_p15"
+        tools:layout="@layout/fragment_m6_p15" >
+        <action
+            android:id="@+id/openM6P16"
+            app:destination="@id/m6P16" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m6P22"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty_two.M6P22"
+        android:label="fragment_m6_p22"
+        tools:layout="@layout/fragment_m6_p22" >
+        <action
+            android:id="@+id/openM6P23"
+            app:destination="@id/m6P23" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m6P23"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty_three.M6P23"
+        android:label="fragment_m6_p23"
+        tools:layout="@layout/fragment_m6_p23" >
+        <action
+            android:id="@+id/openM6P24"
+            app:destination="@id/m6P24" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m6P24"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty_four.M6P24"
+        android:label="fragment_m6_p24"
+        tools:layout="@layout/fragment_m6_p24" >
+        <action
+            android:id="@+id/openM6P25"
+            app:destination="@id/m6P25" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m6P25"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty_five.M6P25"
+        android:label="fragment_m6_p25"
+        tools:layout="@layout/fragment_m6_p25" >
+        <action
+            android:id="@+id/openM6P26"
+            app:destination="@id/m6P26" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m6P26"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty_six.M6P26"
+        android:label="fragment_m6_p26"
+        tools:layout="@layout/fragment_m6_p26" >
+        <action
+            android:id="@+id/openM6P27"
+            app:destination="@id/m6P27" />
+    </fragment>
+    <fragment
+        android:id="@+id/m6P27"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty_seven.M6P27"
+        android:label="fragment_m6_p27"
+        tools:layout="@layout/fragment_m6_p27" >
+    </fragment>
+    <fragment
+        android:id="@+id/m6P21Fragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.page_twenty_one.M6P21Fragment"
+        android:label="M6P21Fragment"
+        tools:layout="@layout/fragment_m6_p21">
+        <action
+            android:id="@+id/openM6P22"
+            app:destination="@id/m6P22" />
+    </fragment>
+
+</navigation>

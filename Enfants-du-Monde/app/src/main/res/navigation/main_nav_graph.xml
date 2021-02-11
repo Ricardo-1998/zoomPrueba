@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    android:label="@string/text_me_and_my_baby"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.home.HomeFragment"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/openModuleOne"
+            app:destination="@id/m1P1Fragment" />
+        <action
+            android:id="@+id/openM3Container"
+            app:destination="@id/m3ContainerFragment" />
+        <action
+            android:id="@+id/openM4ContainerAction"
+            app:destination="@id/m4ContainerFragment" />
+        <action
+            android:id="@+id/openM5Container"
+            app:destination="@id/m5ContainerFragment" />
+        <action
+            android:id="@+id/openM1Container"
+            app:destination="@id/m1ContainerFragment" />
+        <action
+            android:id="@+id/openM2Container"
+            app:destination="@id/m2ContainerFragment" />
+        <action
+            android:id="@+id/openM6Container"
+            app:destination="@id/m6ContainerFragment2" />
+        <action
+            android:id="@+id/openM7Container"
+            app:destination="@id/m7ContainerFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/m3ContainerFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_three.M3ContainerFragment"
+        tools:layout="@layout/fragment_m3_container"/>
+<!-- M3   16-->
+    <fragment
+        android:id="@+id/m4ContainerFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_four.M4ContainerFragment"
+        tools:layout="@layout/fragment_m4_container"/>
+    <fragment
+        android:id="@+id/m5ContainerFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_five.M5ContainerFragment"
+        tools:layout="@layout/fragment_m5_container"/>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.about.AboutFragment"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/helpFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.help.HelpFragment"
+        tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/m1ContainerFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_one.M1ContainerFragment"
+        tools:layout="@layout/fragment_m1_container"/>
+    <fragment
+        android:id="@+id/m2ContainerFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_two.M2ContainerFragment"
+        tools:layout="@layout/fragment_m2_container" />
+    <fragment
+        android:id="@+id/m6ContainerFragment2"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_six.M6ContainerFragment"
+        tools:layout="@layout/fragment_m6_container"/>
+    <fragment
+        android:id="@+id/m7ContainerFragment"
+        android:name="sv.enfantsdumonde.mibebyyo.ui.main.module_seven.M7ContainerFragment"
+        tools:layout="@layout/fragment_m7_container"/>
+
+</navigation>

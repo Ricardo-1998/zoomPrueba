@@ -1,0 +1,1692 @@
+<resources>
+    <string name="app_name">Mi bebé y yo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_module_title_with_params">%s. %s</string>
+
+    <!-- Modules name texts -->
+    <string name="text_module_one">1. El embarazo</string>
+    <string name="text_module_two">2. Controles de embarazo</string>
+    <string name="text_module_three">3. Vida saludable durante el embarazo</string>
+    <string name="text_module_four">4. Preparación para el nacimiento</string>
+    <string name="text_module_five">5. El nacimiento</string>
+    <string name="text_module_six">6. Cuidados del recién nacido</string>
+    <string name="text_module_seven">7. Visitas al establecimiento de salud después del parto</string>
+
+
+    <!-- Module One texts -->
+
+    <string name="text_m1_p1_desc">Es el periodo comprendido entre la fecundación de un ovulo por un espermatozoide y el nacimiento del bebé.
+        \n\nEn el contexto de la pandemia de COVID-19,  <b>es importante proteger la salud de la madre, del bebé</b> y de quienes les  rodean.
+    </string>
+
+    <string name="text_m1_p1_dialog_title">Selecciona un tema</string>
+
+    <!--Items-->
+    <string name="text_m1_p1_i1">Mi cuerpo</string>
+    <string name="text_m1_p1_i2">El momento de quedar embarazada</string>
+    <string name="text_m1_p1_i3">Viaje dentro del útero</string>
+    <string name="text_m1_p1_i4">Mi cuerpo se adapta</string>
+    <string name="text_m1_p1_i5">Problemas relacionados con el embarazo</string>
+    <string name="text_m1_p1_i6">Tener un bebé durante la pandemia de COVID-19</string>
+
+
+    <string name="text_m1_p2_title">Mi cuerpo</string>
+    <string name="text_m1_p2_desc">El bebe se está desarrollando en el útero.
+        \n\nEl <b>útero</b> tiene la forma y el tamaño de una pera.
+    </string>
+
+    <string name="text_m1_p3_title">El momento de quedar embarazada</string>
+    <string name="text_m1_p3_desc">
+        Puedo quedar embarazada después de tener relaciones sexo-coitales con mi pareja.
+        \n\nSi tengo un ciclo menstrual normal de 28 días, el día más probable para que me ocurra
+        un embarazo es el día 14 y se extiende desde 3 días antes, hasta 3 días después.
+    </string>
+    <string name="text_m1_p3_t1">
+        Óvulo, producido por el ovario
+    </string>
+    <string name="text_m1_p3_t2">
+        Espermatozoide, producido por los testículos
+    </string>
+
+    <string name="text_m1_p4_title">Viaje dentro del útero</string>
+    <string name="text_m1_p4_sub_title">Viaje de los espermatozoides</string>
+    <string name="text_m1_p4_desc">Después de las relaciones sexo-coitales, <b>millones de espermatozoides viajan por la vagina,</b>
+        luego pasan a través del útero y se dirigen hacia las dos trompas de Falopio.
+        Algunos espermatozoides finalmente llegan al óvulo.
+    </string>
+    <string name="text_m1_p4_desc_2">En una de las trompas, los espermatozoides con sus cabezas,
+        comienzan a perforar las paredes del óvulo, pero estas resisten.
+        <b>De estos solo uno logrará entrar.</b>
+    </string>
+
+    <string name="text_m1_p5_title">Crecimiento dentro del útero</string>
+    <string name="text_m1_p5_desc">
+        Cuando un espermatozoide penetra en el óvulo, este queda fecundado y
+        desciende por el interior de la trompa de Falopio hasta el útero.
+        \n\nYa dentro del útero, las células continúan dividiéndose y se implantan en la pared uterina,
+        donde continúan a desarrollándose durante 9 meses. 
+    </string>
+
+
+    <!-- M1 P6-->
+    <string name="text_m1_p6_title">Crecimiento dentro del útero</string>
+    <string name="text_m1_p6_desc">Desde la entrada del espermatozoide al óvulo comienza una serie de cambios y transformaciones celulares, que llevan como producto final la formación de mi bebé.</string>
+
+
+    <!-- M1 P7-->
+    <string name="text_m1_p7_title">Crecimiento dentro del útero</string>
+    <string name="text_m1_p7_desc">En la primera semana: son células pequeñas.<br /> En la tercera semana: el <b>corazón</b> comienza a<br />latir.</string>
+    <string name="text_m1_p7_desc2">A partir de las 8 semanas: el <b>cuerpo</b> de mi bebé comienza a<br /> desarrollarse.
+        \n\n<b>12 semanas:</b> tiene <b>ojos</b>,<b>boca</b> con brotes <b>dentales</b> y su <b>sangre</b> comienza a circular.</string>
+    <string name="text_m1_p7_desc3">Entre las 12 semanas y 17 semanas:<b> se chupa el dedo</b> y sus <b>genitales</b> ya están definidos.</string>
+
+    <!-- M1 P8-->
+    <string name="text_m1_p8_title">Crecimiento dentro del útero</string>
+    <string name="text_m1_p8_desc">A partir de las 20 semanas: puedo comenzar a sentir<br /> que mi bebé <b>se mueve.</b> Ya puede escuchar sonidos, entonces,es el momento para empezar a <b>hablarle.</b></string>
+
+    <string name="text_m1_p8_desc2">A las 32 semanas: en esta etapa, generalmente mi bebé ya esta buscando la posición de salida que es boca abajo, ya casi estará listo o lista para salir.
+        \n\nSi no se gira, se dice que está en posición de nalgas o transversal (atravesado/a).</string>
+
+    <!-- M1 P9-->
+    <string name="text_m1_p9_title">Crecimiento dentro del útero</string>
+    <string name="text_m1_p9_desc">A las 38 semanas ya queda poco tiempo para que<br /> nazca mi bebé, cada día que pasa dentro del vientre<br /> es necesario para su desarrollo.
+        \n\nEn esta etapa, es mas difícil descansar pues el peso de mi bebé hace presión sobre los huesos de la pelvis y eso ocasiona molestias. </string>
+
+    <!-- M1 P10-->
+    <string name="text_m1_p10_title">Duración del embarazo</string>
+    <string name="text_m1_p10_desc">Aproximadamente un embarazo <b>dura 40<br /> semanas o 9 meses.
+        \n</b>Por lo general, el personal de salud calcula<br /> el tiempo del embarazo en <b>semanas</b>, no en<br /> meses, ya que esto es más exacto.
+        \nLa duración del embarazo también se divide<br /> en trimestres.
+        \n\n<b>El primer trimestre</b> cubre los primeros tres<br /> meses de embarazo (desde la fecha de mi última regla hasta las 14 semanas).
+        \n\n<b>El segundo trimestre</b>se extiende del cuarto<br /> al sexto mes de embarazo (de las 15 a las<br /> 28 semanas).
+        \n\n<b>El tercer trimestre</b> va desde el séptimo al<br /> noveno mes de embarazo (desde las 29<br /> semanas hasta el nacimiento).</string>
+
+    <!-- M1 P11-->
+    <string name="text_m1_p11_title">Mi cuerpo se adapta</string>
+    <string name="text_m1_p11_desc">El útero <b>aumenta de tamaño</b> a medida que
+        crece el bebé.
+    </string>
+    <string name="text_enter_here">Entra acá</string>
+
+    <!-- M1 P12-->
+    <string name="text_m1_p12_title">Mi cuerpo se adapta</string>
+    <string name="text_m1_p12_desc">
+        Al final del embarazo mi bebé mide alrededor de <b>50 centímetros</b>
+    </string>
+
+    <!-- M1 P13-->
+    <string name="text_m1_p13_title">Mi cuerpo se adapta</string>
+    <string name="text_m1_p13_desc">Mis pechos aumentan de tamaño, son más pesados, más sensibles y las areolas se vuelven más oscuras.
+        \n\nEs posible que comience a salir calostro de mis pechos, que es el primer alimento que tomará
+        el bebé antes de que se empiece a producir leche. Estas una señales me indican que mi cuerpo se prepara para el nacimiento de mi bebé.\n\n<b>Mi piel</b>
+        se oscurece. Puede aparecer una línea oscura debajo de mi ombligo.\n\nPueden aparecer algunas veces marcas <b>café oscuras</b> en mi cara.
+        \n\nEs posible que me aparezcan estrías y más vello corporal, alrededor de la segunda mitad del embarazo.
+    </string>
+
+    <!-- M1 P14-->
+    <string name="text_m1_p14_title">Vida de mi bebé dentro del útero</string>
+    <string name="text_m1_p14_desc">Mi bebé se mantiene <b>en el líquido amniótico contenido en la bolsa de agua.</b>
+        \n\nEl líquido amniótico es un líquido claro y ligeramente amarillento que rodea mi bebe dentro del útero, no solo permite que mi bebé
+        se <b>mueva</b> fácilmente en mi útero, sino que también le <b>protege</b> de golpes externos e infecciones.
+        \n\nLa bolsa de agua es muy fina, pero es muy elástica, resistente y le protege muy bien. La bolsa de agua está cerrada por el <b>tapón
+        mucoso</b>, una "barrera" formada por la mucosidad que se espesa durante el embarazo.
+    </string>
+
+    <!-- M1 P15-->
+    <string name="text_m1_p15_title">Alimentación del bebé</string>
+    <string name="text_m1_p15_desc"><b>La placenta es el órgano de intercambio</b> entre mi bebé y yo. Está conectado a mi bebé por medio del <b>cordón umbilical</b>.
+    </string>
+    <string name="text_m1_p15_desc2">Toda lo que consumo se transforma, luego es absorbido por mi sangre y filtrado por la placenta.
+        Una vez filtrados, estos alimentos pasan <b>a través del cordón umbilical para nutrir a mi bebé.</b>\n\nPor eso
+        es importante evitar consumir alimentos dañinos, ya que pueden atravesar la placenta y afectar la salud de ambos.
+    </string>
+
+    <!-- M1 P16-->
+    <string name="text_m1_p16_title">Mi cuerpo se adapta a los cambios físicos\nSignos y síntomas</string>
+    <string name="text_m1_p16_desc">El embarazo ejerce una <b>presión</b> adicional sobre el corazón y los pulmones.
+        \nLa frecuencia <b>cardíaca y respiratoria</b> pueden aumentar, y fácilmente puedo quedar sin aliento.
+    </string>
+    <string name="text_m1_p16_desc2">Mis <b>piernas</b> pueden volverse más <b>pesadas</b>, pueden aparecer calambres o hincharse los pies y tobillos.
+    </string>
+
+    <!-- M1 P17-->
+    <string name="text_m1_p17_title">Mi cuerpo se adapta a los cambios físicos</string>
+    <string name="text_m1_p1_sub_title">Signos y síntomas</string>
+    <string name="text_m1_p17_desc">Aumenta mi necesidad de <b>orinar frecuentemente</b>, especialmente por la noche. También puedo tener <b>flujo vaginal</b> más abundante, de color
+        blancuzco, espeso-pegajoso y sin olor.
+    </string>
+    <string name="text_m1_p17_desc2">Muchas veces mi <b>digestión tardará</b> más de lo acostumbrado.\nEsto me puede causar <b>acidez</b> estomacal o <b>estreñimiento</b>.\n\nSe pueden inflamar las venas del ano por la presión del bebé en los intestinos <b>(hemorroides)</b>.
+    </string>
+
+    <!--    Page eighteen-->
+    <string name="text_m1_p18_title">Mi cuerpo se adapta a los cambios físicos</string>
+    <string name="text_m1_p18_sub_title">Signos y síntomas</string>
+    <string name="text_m1_p18_desc">Puedo tener <b>náuseas y vómito.</b>\nAl comienzo del embarazo son más frecuentes, pero después del quinto
+        mes van disminuyendo o desaparecen.
+    </string>
+    <string name="text_m1_p18_desc2">Durante el embarazo puedo sentir rechazo aciertos alimentos.</string>
+
+    <string name="text_m1_p18_desc_two">Muchas veces mi  <b>digestión tardará</b>.
+    más de lo acostumbrado. Esto me puede causar <b>acidez</b> estomacal o <b>estreñimiento. </b> \n
+    Se pueden inflamar las venas del ano por la presión del bebé en los intestinos
+    <b>(hemorroides).</b>
+
+    </string>
+
+
+    <!--    Page nineteen-->
+    <string name="text_m1_p19_title">Mi cuerpo se adapta a los cambios físicos</string>
+    <string name="text_m1_p19_sub_title">Signos y síntomas</string>
+    <string name="text_m1_p19_desc">Mi vientre se  <b>vuelve redondeado</b> y es más visible entre el cuarto y quinto mes de embarazo.
+        \nA medida que crece mi bebé el cuerpo cambia, el <b>aumento de peso</b> suele ser de entre 25 libras  y 35 libras, y puede
+        <b>variar</b> de una mujer a otra e incluso de un embarazo a otro.
+    </string>
+    <string name="text_m1_p19_desc_two">El peso de mi bebé, que es cada vez más mayor, puede influir hasta en mi forma
+        <b>de caminar.</b>
+    </string>
+
+    <!--    Page twenty-->
+    <string name="text_m1_p20_title">Mi cuerpo se adapta a los cambios físicos</string>
+    <string name="text_m1_p20_sub_title">Signos y síntomas</string>
+    <string name="text_m1_p20_desc">Si me alimento adecuadamente contribuyo a que mi bebé nazca saludable <b>,
+        de lo contrario puede nacer antes del tiempo, con bajo peso o tener un retraso en el
+        crecimiento dentro del útero.</b>\n\n<b>Aumentar mucho de peso</b> puede ser peligroso para mi bebé y para mi.
+        Puedo tener un mayor riesgo de desarrollar diabetes (azúcar en la sangre) y presión arterial
+        alta y con ello exponerme a un mayor riesgo de una cesárea.\n\nPero, no se trata de hacer dieta
+        durante el embarazo, más bien, es una oportunidad para tomar conciencia de algunos errores
+        alimenticios y encontrar la manera de <b>alimentarnos mejor,</b> con la ayuda del personal de salud.
+    </string>
+
+    <!--    Page tewenty one-->
+    <string name="text_m1_p21_title">Mis emociones durante el embarazo</string>
+
+    <string name="text_m1_p21_desc">Durante el embarazo, puedo tener <b>cambios drásticos de humor sin razón aparente,</b>
+        que van desde sentirme enojada a estar feliz.\n\nEstos cambios <b>no deben de dar preocuparme.</b>\nLa mayoría disminuyen o desaparecen en los meses posteriores al nacimiento de mi bebé.
+    </string>
+    <string name="text_m1_p21_desc_two">También puedo sentirme más cansada de lo usual.</string>
+    <string name="text_m1_p21_desc_three">Algunas mujeres viven su embarazo como un <b>período único y especial</b>
+        gracias a las hormonas que circulan en la sangre.
+    </string>
+
+    <!--    Page tewenty two-->
+    <string name="text_m1_p22_title">Problemas de salud en el embarazo</string>
+    <string name="text_m1_p22_desc">Todos los embarazos son diferentes y en algunos se pueden presentar complicaciones
+        y en otros no. Es importante que si presento algún signo de riesgo consulte al
+        establecimiento de salud más cercano.
+    </string>
+    <string name="text_m1_p22_desc_two">El <b> sangrado (hemorragia) </b> puede hacer que se pierda mucha sangre, y causar la
+        muerte tanto de la madre como del bebé. \n\nLa <b> diabetes durante el embarazo (diabetes gestacional) </b>es un aumento anormal del azúcar
+        en la sangre. El o la bebé puede nacer prematuro/a o con mucho peso. Si la diabetes no
+        se trata, la madre puede entrar en coma y morir.
+    </string>
+
+    <!--    Page tewenty three-->
+    <string name="text_m1_p23_title">Problemas de salud en el embarazo</string>
+    <string name="text_m1_p23_desc">La <b>preclamsia</b> es causada por un aumento de la presión arterial durante el embarazo.
+        Se pueden presentar síntomas como: aumento de líquidos en manos, pies y cara (hinchazón),
+        mareos, dolor intenso de cabeza,  orinar en menor cantidad, ardor al orinar y visión
+        borrosa.
+    </string>
+    <string name="text_m1_p23_desc_two">Sin tratamiento oportuno puede convertirse en eclampsia provocando convulsiones
+        e incluso la muerte del bebé y la madre.
+    </string>
+
+
+    <!--    Page twenty four-->
+    <string name="text_m1_p24_title">Problemas de salud en el embarazo</string>
+    <string name="text_m1_p24_desc">La anemia, diabetes (azúcar en sangre), presión alta, VIH,
+        toxoplasmosis, dengue, chikungunya, zika, infecciones de vías urinarias, entre otras,
+        pueden afectar la salud del bebé, ya que algunas se pueden transmitir.
+    </string>
+    <string name="text_m1_p24_desc2">Las <b>enfermedades que ya existían</b> antes del
+        embarazo también pueden requerir un tratamiento específico.
+    </string>
+
+    <!--    Page twenty five-->
+    <string name="text_m1_p25_title">Problemas de salud en el embarazo</string>
+    <string name="text_m1_p25_desc">Un/a bebé con <b>mucho peso</b> y una madre con la
+        <b>pelvis estrecha</b> o que ha tenido <b>embarazos múltiples</b> también puede necesitar
+        cuidados especiales.
+    </string>
+    <string name="text_m1_p25_desc2">Una mujer que tuvo una cesárea podría necesitar también
+        cuidados especiales y hospitalarios.
+    </string>
+
+    <string name="text_m1_p25_desc3">Si el personal de salud me informa que el parto será por
+        cesárea, debo presentarme al hospital ante cualquier signo de riesgo.
+    </string>
+
+    <string name="text_m1_p26_title">Problemas del futuro bebé</string>
+    <string name="text_m1_p26_desc"><b>El consumo de drogas, alcohol, tabaco o ciertos medicamentos
+        durante el embarazo puede generar problemas</b> en el desarrollo del bebé.
+        \n\nSe aumenta el riesgo
+        que el bebé nazca con <b>bajo</b> peso, prematuro o con defectoscongénitos (malformaciones) e
+        incluso la <b>muerte</b> dentro del útero.
+    </string>
+
+    <!--Page twenty seven-->
+    <string name="text_m1_p27_title">Problemas del futuro bebé</string>
+    <string name="text_m1_p27_desc">La o el bebé puede nacer con deformidades como: labio leporino o paladar hendido, síndrome de Down,
+        deformidades en los pies  o presentar otras <b>deformidades</b> más graves.
+        \n\nAlgunas de éstas deformidades están relacionadas con la falta de ácido fólico,
+        por eso es muy importante tomarlo durante el embarazo.
+    </string>
+
+    <!--Page twenty eight-->
+    <string name="text_m1_p28_title">Tener un bebé durante la pandemia de COVID-19</string>
+    <string name="text_m1_p28_desc">Ahora se sabe que, una mujer embarazada corre un mayor riesgo de presentar COVID-19 grave.
+        \n\nPor ello, es importante que tomes precauciones para <b>protegerte</b> contra el COVID-19 y
+        avises al personal de salud ante la presencia de cualquier síntoma relacionado.
+        \n\nRecuerda que, tener la infección de COVID-19 <b>no implica que se requiere un parto por cesárea.</b>
+    </string>
+    <string name="text_m1_p28_desc_2"><i>El conocimiento está actualizado a noviembre de 2020, pero puede cambiar con el tiempo (Organización Mundial de la Salud)</i></string>
+
+    <!--                                Modulo 2                          -->
+
+
+    <!--M2 P1-->
+    <string name="text_m2_p1_title">2. CONTROLES PRENATALES</string>
+    <string name="text_m2_p1_desc">Asisto a mis controles prenatales, porque eso me permite estar pendiente de mi salud y el buen desarrollo de mi bebé.</string>
+
+    <!--Items-->
+    <string name="text_m2_p1_i1">Importancia de mis controles prenatales</string>
+    <string name="text_m2_p1_i2">Mis derechos en los controles prenatales</string>
+    <string name="text_m2_p1_i3">Durante mis controles prenatales</string>
+    <string name="text_m2_p1_i4">Ultrasonografía</string>
+    <string name="text_m2_p1_i5">Planificación Familiar</string>
+    <string name="text_m2_p1_i6">Por una vida libre de violencia contra la mujer</string>
+    <string name="text_m2_p1_i7">Plan de parto para una maternidad segura.</string>
+    <string name="text_m2_p1_i8">Vacunas</string>
+    <string name="text_m2_p1_i9">Cuidados Preventivos</string>
+    <string name="text_m2_p1_i10">Programando mi próximo control prenatal.</string>
+    <string name="text_m2_p1_i11">Evaluación sobre la atención prenatal</string>
+    <string name="text_m2_p1_i12">Embarazo en tiempos de COVID 19</string>
+
+    <!--M2 P2-->
+    <string name="text_m2_p2_title">Importancia de mis controles prenatales</string>
+    <string name="text_m2_p2_desc">Durante todo mi embarazo, voy al establecimiento de salud para mis controles prenatales.</string>
+    <string name="text_m2_p2_desc2"><b>Asisto puntualmente en los siguientes momentos:</b>
+        \n\n•<b>Inscripción:</b> antes de las primeras 12 semanas.
+        \n•<b>Primer Control:</b> entre las 16 y 18 semanas.
+        \n•<b>Segundo Control:</b> entre las 26 y 28 semanas.
+        \n•<b>Tercer Control:</b> entre las 32 y 34 semanas.
+        \n•<b>Cuarto control:</b> a las 38 semanas.
+        \n\nLa cantidad de controles prenatales pueden variar, según mi estado de salud.
+        \n\nEn cada control prenatal, el personal de salud me asigna la próxima cita.
+        \nEn cada consulta, llevo conmigo mi <b>agenda prenatal.</b>
+    </string>
+
+    <!--M2 P3-->
+    <string name="text_m2_p3_title">Mis derechos en los controles prenatales</string>
+    <string name="text_m2_p3_desc">Ser atendida con respeto, dignidad y sin discriminación.
+        \n\nSer saludada y conocer el nombre del personal de salud que me atiende.
+        \n\nSer llamada por mi nombre y ser escuchada.
+        \n\nPreguntar todo lo que no entienda.
+        \n\nDecir cómo me siento.
+        \n\nEntender lo que el personal de salud hace cuando me examina y estar de acuerdo.
+        \n\nRecibir toda la información relacionada con mi embarazo y el desarrollo de mi bebé.
+        \n\nRecibir atención médica las veces que sea necesario.
+        \n\nTener un parto hospitalario.</string>
+    <string name="text_m2_p3_desc2"><b>La persona que me acompaña puede entrar conmigo a la consulta si así lo deseo y si las condiciones de salud lo permite.
+    </b></string>
+
+    <!--M2 P4-->
+    <string name="text_m2_p4_title">Mis derechos en los controles prenatales</string>
+    <string name="text_m2_p4_desc">El consultorio debe de estar limpio y ordenado.</string>
+    <string name="text_m2_p4_desc2">Tengo privacidad al momento de cambiarme para ser examinada</string>
+    <string name="text_m2_p4_desc3">El personal de salud no puede compartir información
+        sobre mi salud con personas que no sean del establecimiento, sin mi autorización.</string>
+
+    <!--M2 P5-->
+    <string name="text_m2_p5_title">Durante mis controles prenatales</string>
+    <string name="text_m2_p5_desc">Al llegar al establecimiento de salud, doy mis datos personales en el archivo, ahí me hacen un expediente.
+        \nMe toman la temperatura, presión arterial y medirán mi peso y talla.</string>
+    <string name="text_m2_p5_desc2">El personal de salud me examina, me pregunta sobre mi embarazo actual y embarazos anteriores (si los he tenido).</string>
+    <string name="text_m2_p5_desc3">Me realiza una prueba rápida de orina para saber si tengo o no, infección de vías urinarias.</string>
+
+    <!--    M2 P6-->
+    <string name="text_m2_p6_title">Durante mis controles prenatales</string>
+    <string name="text_m2_p6_desc">El personal de salud mide con una cinta métrica mi altura uterina, lo hace a partir de las 21 semanas para conocer cómo va el crecimiento de mi bébe.</string>
+    <string name="text_m2_p6_desc2">El personal de salud escucha con un estetoscopio o Doppler, <b>los latidos del corazón</b> de mi bebé, a partir de las 18 semanas.</string>
+    <string name="text_m2_p6_desc3"><b>Estetoscopio:</b> aparato que el personal de salud se coloca en su oídos para escuchar los latidos del corazón tanto de mi bebé como los míos.</string>
+    <string name="text_m2_p6_desc4"><b>Doppler:</b> aparato con el cual tanto el personal de salud como yo podemos escuchar el latido del corazón de mi bebé.</string>
+
+    <!--    M2 P7-->
+    <string name="text_m2_p7_title">Durante mis controles prenatales</string>
+    <string name="text_m2_p7_desc">El personal de salud me examina la vagina y el cuello del útero, ya sea utilizando el espéculo o el dedo. Esto es importante para detectar algunas enfermedades o revisar el buen desarrollo de mi bebé.</string>
+    <string name="text_m2_p7_desc2">Espéculo vaginal</string>
+    <string name="text_m2_p7_desc3">Espéculo vaginal instrumento que se utiliza en las mujeres para separa las paredes de la vagnia y así poder observar cómo se encuentran las mismas y el cuello del útero, además se utiliza para realizar la toma de citología y detectar a tiempo el cáncer cérvico-uterino</string>
+
+
+    <!--    M2 P8-->
+    <string name="text_m2_p8_title">Durante mis controles prenatales</string>
+    <string name="text_m2_p8_desc">Me indican exámenes y ultrasonografía, para los que debo solicitar una cita</string>
+    <string name="text_m2_p8_desc2">Me refieren al laboratorio clínico para tomarme: examen general de orina,
+    examen general de heces y los siguientes exámenes de sangre:
+        \n\n•Hemograma, para saber si tengo anemia.
+        \n•Glucosa, para conocer los niveles de azúcar en la sangre.
+        \n•Prueba Rápida para Sífilis (PRS).
+        \n•Prueba Rápida de VIH.
+        \n•Grupo y factor RH (tipo de sangre).</string>
+    <string name="text_m2_p8_desc3">También solicito consulta en odontología para evaluación de mi salud dental.</string>
+
+    <!--    M2 P9-->
+    <string name="text_m2_p9_title">Durante mis controles\n prenatales</string>
+    <string name="text_m2_p9_desc">Identifico mi grupo sanguíneo, conocer mi tipo de sangre es importante en caso de <b>haber hemorragia o de necesitar una transfusión,</b></string>
+    <string name="text_m2_p9_desc2">Si mi tipo de sangre es <b>Rh negativo</b> (A-,B-,AB-,O-),
+    es importante conocer el grupo sanguíneo de mi pareja</string>
+    <string name="text_m2_p9_desc3">Si mi pareja es Rh positivo, el personal de salud me orienta para evitar complicaciones.</string>
+
+    <!--    M2 P10-->
+    <string name="text_m2_p10_title">Ultrasonografía</string>
+    <string name="text_m2_p10_desc">Es un examen prenatal muy importante, me permite conocer el desarrollo de mi bebé dentro del útero, ver ciertos órganos del cuerpo de mi bebé y oír sus latidos ntes de nacer.</string>
+    <string name="text_m2_p10_desc2">Antes de la <b>semana 20 de embarazo,</b> en la medida de lo posible, el personal de salud hace una ultrasonografía para saber: <b>la fecha probable del parto </b>y el buen desarrollo del bebé</string>
+    <string name="text_m2_p10_desc3">El Ministerio de Salud recomienda realizar al menos 3 ultrasonografías durante el embarazo sin complicaciones.</string>
+    <string name="text_m2_p10_desc4">A lo largo del embarazo, en caso de tener sangrado, probemas en el útero, enermedad grave de la madre o cualquier otro problema, el personal de salud podrá realizar <b>otras ultrasonografías</b></string>
+
+
+    <!--    M2 P11-->
+    <string name="text_m2_p11_title">Planificación familiar</string>
+    <string name="text_m2_p11_desc">Al final del embarazo el personal de salud nos orienta, a mi pareja y a mí, sobre los métodos de planificación familiar, nos explican cada uno de ellos para poder valorarlos y acordar el método más conveniente a utilizar.
+        \nLos métodos de planificación familiar pueden ser temporales o permanentes.</string>
+
+    <string name="text_m2_p11_title_sub">Temporales</string>
+    <string name="text_m2_p11_title_sub_2">Permanentes</string>
+
+    <string name="text_m2_p11_minidesc">Lactancia materna exclusiva</string>
+    <string name="text_m2_p11_minidesc2">Dispositivo intrauterino</string>
+    <string name="text_m2_p11_minidesc3">Pastillas anticonceptivas</string>
+    <string name="text_m2_p11_minidesc4">Inyecciones</string>
+    <string name="text_m2_p11_minidesc5">Preservativos masculinos y femeninos</string>
+    <string name="text_m2_p11_minidesc6">Implante subdérmico</string>
+    <string name="text_m2_p11_minidesc7">Preservativos masculinos y femeninos</string>
+    <string name="text_m2_p11_minidesc8">Esterilización femenina</string>
+    <string name="text_m2_p11_minidesc9">Esterilización masculina</string>
+
+    <!--    M2 P12-->
+    <string name="text_m2_p12_title">Por una vida libre de violencia contra la mujer</string>
+    <string name="text_m2_p12_desc">Si sufro algún tipo de violencia, informo al personal de salud.\n\n<b>La Ley Especial Integral para una Vida Libre de Violencia para las Mujeres, protege nuestros derechos.</b></string>
+    <string name="text_m2_p12_desc_two">En caso de vivir alguna de estas situaciones, informo inmediatamente a:</string>
+
+    <!--    M2 P13-->
+    <string name="text_m2_p13_title">Por una vida libre de violencia contra la mujer</string>
+    <string name="text_m2_p13_title2">Existen diferentes tipos de violencia que debo de reconocer.</string>
+    <string name="text_m2_p13_desc"><b>Física:</b> golpes, bofetadas, tirones de pelo, apretones, cortaduras, pellizcos, patadas, empujones, mordeduras y quemaduras.</string>
+    <string name="text_m2_p13_desc_two"><b>Psicológica:</b> amenazas, insultos, apodos, gritos, chantajes, ofensas, desprecio, humillar, manipular, desvalorizar, ridiculizar, culpabilizar, así como la exigencia de obediencia y el control en la forma de vestir o arreglarse</string>
+
+    <!--    M2 P14-->
+    <string name="text_m2_p14_title">Por una vida libre de violencia contra la mujer</string>
+    <string name="text_m2_p14_desc"><b>Económica:</b> obligar a entregar el dinero, pedir cuentas de lo gastado, impedir trabajar, retener el salario, privar de las necesidades básicas.</string>
+    <string name="text_m2_p14_desc_two"><b>Sexual:</b> obligar a tener relaciones sexo coitales, tocar partes del cuerpo contra su voluntad, no aceptar el uso de métodos anticonceptivos, obligar a tener hijos/as.</string>
+
+    <!--    M2 P15-->
+    <string name="text_m2_p15_title">Por una vida libre de violencia contra la mujer</string>
+    <string name="text_m2_p15_desc"><b>Violentómetro:</b> es una herramienta que me permite estar alerta para detectar cualquier manifestación de violencia por parte de mi pareja, familia, amistades, en la comunidad o en mi trabajo.</string>
+
+    <!--    M2 P16-->
+    <string name="text_m2_p16_title">Plan de parto para una maternidad segura</string>
+    <string name="text_m2_p16_desc">Con mi pareja, mi familia y con apoyo del personal de salud,
+        platico de las actividades necesarias para tener una atención médica adecuada y oportuna,
+        ante una emergencia relacionada al embarazo y al parto.</string>
+    <string name="text_m2_p16_desc_two">Junto a mi familia nos preparamos para llegar a tiempo al
+        hospital.</string>
+
+    <!--    M2 P17-->
+    <string name="text_m2_p17_title">Vacunas</string>
+    <string name="text_m2_p17_desc">El personal de salud me vacunará contra la Influenza y el tétano.\nLa vacuna DT protege contra tétano y difteria.<b>Esta vacuna ayuda a prevenir que mi bebé se infecte con tétano durante el parto.
+    </b></string>
+    <string name="text_m2_p17_desc_two"><b>¡Todas las embarazadas deben tener sus vacunas completas!
+    </b> </string>
+    <string name="text_m2_p17_desc_three">Las vacunas que se aplican a la embarazada pueden variar según el momento en que se realice la inscripción y las semanas de embarazo que tenga.</string>
+
+    <!--    M2 P18-->
+    <string name="text_m2_p18_title">Cuidados preventivos</string>
+    <string name="text_m2_p18_desc">El personal de salud me da los siguientes <b>medicamentos</b> para tomar en casa, los cuales ayudan a mi salud y la de mi bebé.\n\n<b>Sulfato Ferroso (Hierro): </b>tomo 1 tableta vía oral cada día, desde la semana 16 hasta finalizar el embarazo y el post parto, para prevenir la anemia.
+    </string>
+    <string name="text_m2_p18_photo_text">Sulfato Ferroso (Hierro)</string>
+
+    <string name="text_m2_p18_desc_two"><b>Ácido fólico: </b>tomo 1 tableta diaria durante todo el embarazo, para prevenir deformaciones en el cerebro y columna vertebral de mi bebé.
+    </string>
+    <string name="text_m2_p18_photo_text_two">Ácido Fólico</string>
+
+    <string name="text_m2_p18_desc_three">Si el personal de salud lo considera necesario, por presentar riesgo para preclamsia, me receta <b>Calcio:</b> 2 tabletas diarias, vía oral a partir de las 16 semanas hasta finalizar el embarazo y el post parto.
+
+    </string>
+    <string name="text_m2_p18_photo_text_three">Calcio</string>
+
+    <!--    M2 P19-->
+    <string name="text_m2_p19_title">Programando mi próximo control prenatal</string>
+    <string name="text_m2_p19_desc">El personal de salud me devuelve mi <b>agenda prenatal</b> actualizada.</string>
+    <string name="text_m2_p19_desc_two">Según las semanas de embarazo en que me encuentre, el personal de salud agenda mi próximo control prenatal.</string>
+    <string name="text_m2_p19_desc_three">Si tengo algún <b>problema</b> de salud,  puedo ser atendida en la Unidad Comunitaria de Salud Familiar o me remiten al <b>hospital</b>.</string>
+
+    <!--    M2 P20-->
+    <string name="text_m2_p20_title">Evaluación sobre la atención prenatal</string>
+    <string name="text_m2_p20_desc">Opino en diferentes espacios, sobre cómo me siento o me trataron en los establecimientos de salud (en UCSF o en el hospital).</string>
+    <string name="text_m2_p20_desc_two">Participo en diferentes actividades que el establecimiento de salud realiza: entrevistas,  encuestas, reuniones, charlas o lo expreso a través del buzón de sugerencias.</string>
+    <string name="text_m2_p20_desc_three">Platico con otras mujeres y lideres de mi comunidad sobre la manera en que me trataron, la atención que recibí, los problemas relacionados a los controles prenatales, y en conjunto los compartimos con el personal de salud.</string>
+    <!--    M2 P21-->
+    <string name="text_m2_p21_title">Embarazo en tiempos de COVID-19</string>
+    <string name="text_m2_p21_desc1"><b>Asisto a mi control prenatal,</b> según las citas.</string>
+    <string name="text_m2_p21_desc2"><b>Para ingresar al establecimiento de salud:</b>
+        \n\n•Uso la mascarilla de manera correcta.
+        \n•Desinfecto mi calzado antes de entrar.
+        \n•Me toman la temperatura.
+        \n•Lavo mis manos con abundante agua y jabón o me proporcionan alcohol gel.
+        \n•Me preguntan si he tenido (o algún miembro de mi familia) fiebre, dolor de cabeza, dolor de cuerpo y garganta.</string>
+
+    <!--    M2 P22-->
+    <string name="text_m2_p22_title">Embarazo en tiempos de COVID-19</string>
+    <string name="text_m2_p22_desc1"><b>Recomendaciones para la prevención</b> </string>
+    <string name="text_m2_p22_desc2">Uso la mascarilla de manera correcta (cubriendo nariz y boca). </string>
+    <string name="text_m2_p22_desc3">Evito tocarme los ojos, la nariz o la boca. </string>
+    <string name="text_m2_p22_desc4">No saludo de mano ni de beso.  </string>
+
+
+    <!--    M2 P23-->
+    <string name="text_m2_p23_title">Recomendaciones para la prevención <br></br></string>
+    <string name="text_m2_p23_desc1">Me cubro la nariz y boca con el antebrazo al estornudar o toser. </string>
+    <string name="text_m2_p23_desc2">Respeto la distancia de al menos 2 metros con otras personas.</string>
+    <string name="text_m2_p23_desc3">Me lavo las manos frecuentemente con agua y jabón.</string>
+
+    <!--    M2 P24-->
+    <string name="text_m2_p24_title">Embarazo en tiempos de COVID-19 <br></br></string>
+    <string name="text_m2_p24_desc1"> El personal de salud me informa que debo  continuar con los cuidados de mi embarazo tomándome el Sulfato Ferroso (Hierro), el Acido Fólico y el Calcio. </string>
+    <string name="text_m2_p24_desc2"> <b>Informo si tengo los siguientes síntomas de COVID-19.</b> </string>
+    <string name="text_m2_p24_desc3"><br>•Dolor de garganta, tos (especialmente seca).</br>
+        \n<br>•Dificulta para respirar y dolor de pecho.</br>
+        \n<br>•Fiebre.</br>
+        \n<br>•Pérdida repentina del olfato y/o el gusto.</br>
+        \n<br>•Dolor de cabeza, decaimiento y sensación de malestar.</br>
+        \n<br>•Náuseas, vómito y diarrea.</br>
+        \n<br>•Erupciones en la piel.</br></string>
+
+
+    <!--    M2 P25-->
+    <string name="text_m2_p25_title">Embarazo en tiempos de COVID-19 <br></br></string>
+    <string name="text_m2_p25_desc1">Expreso mis preocupaciones al personal de salud, ya que algunas personas infectadas no presentan síntomas.</string>
+    <string name="text_m2_p25_desc2">Tener la enfermedad COVID-19 no significa que tendré un parto por cesárea.</string>
+
+    <!--  Module 3   -->
+
+    <!--M3 P1-->
+    <string name="text_m3_p1_title">3. Embarazo saludable</string>
+    <string name="text_m3_p1_desc">
+        Para mantenerme sana durante mi embarazo y asegurarme de que mi bebé esté saludable,
+        ¡me cuido y sigo las recomendaciones del personal de salud!
+    </string>
+
+    <!--Items-->
+    <string name="text_m3_p1_i1">Alimentación balanceada en el embarazo</string>
+    <string name="text_m3_p1_i2">Consejo nutricional: agua</string>
+    <string name="text_m3_p1_i3">Estilo de vida: evito consumir</string>
+    <string name="text_m3_p1_i4">Estilo de vida: higiene personal</string>
+    <string name="text_m3_p1_i5">Estilo de vida: buenos hábitos</string>
+    <string name="text_m3_p1_i6">Estilo de vida: buena postura</string>
+    <string name="text_m3_p1_i7">Estilo de vida: me protejo</string>
+    <string name="text_m3_p1_i8">Relaciones personales: mi pareja y mi familia</string>
+    <string name="text_m3_p1_i9">Embarazo en tiempos de COVID-19</string>
+
+    <!--M3 P2-->
+    <string name="text_m3_p2_title">Alimentación balanceada en el embarazo</string>
+    <string name="text_m3_p2_title_sub">Consumo</string>
+    <string name="text_m3_p2_desc">5 verduras o frutas frescas de diferentes colores, al día</string>
+    <string name="text_m3_p2_desc2">
+        Lácteos bajos en grasa y azúcar, 3 veces al día, tales como requesón, queso fresco y yogurt para fortalecer los
+        huesos. De preferencia hervir la leche de vaca recién ordeñada.
+    </string>
+    <string name="text_m3_p2_desc3">
+        Pescado salcochado 2 veces por semana, para mantener sano mi corazón.
+    </string>
+    <string name="text_m3_p2_desc4">
+        Legumbres (frijoles, lentejas, alverjas y garbanzos) al menos 2 veces por semana.
+    </string>
+    <string name="text_m3_p2_desc5"><b>Alimentos con poca sal, bajos en grasa y azúcar.</b></string>
+
+    <!--M3 P3-->
+    <string name="text_m3_p3_title">Alimentación balanceada en el embarazo</string>
+    <string name="text_m3_p3_desc">•Como una comida extra al día.
+        \n\n•Lavo las frutas y verduras con abundante agua limpia antes de comerlas.
+        \n\n•Consumo los alimentos bien cocidos y no los mezclo con alimentos crudos.
+        \n\n•Protejo el lugar donde se preparan los alimentos de animales como: moscas, cucarachas, ratones u otros insectos que pueden contaminarlos.
+        \n\n•Como un refrigerio entre comidas, puede ser una fruta.</string>
+    <string name="text_m3_p3_desc2"><b>Lavo mis manos con agua limpia y jabón</b> antes y después de preparar la comida y antes de comer.</string>
+
+    <!-- M3 P4 -->
+    <string name="text_m3_p4_title">Consejo nutricional: agua</string>
+    <string name="text_m3_p4_desc">Hiervo el agua o utilizo el puriagua que me brinda el establecimiento
+    de salud.
+    </string>
+    <string name="text_m3_p4_desc2">La guardo en un recipiente <b>limpio y cubierto.</b></string>
+    <string name="text_m3_p4_desc3">Tomo al menos <b>6-8 vasos de agua potable</b> al día para
+    mantenerme hidratada</string>
+
+    <!-- M3 P5 -->
+    <string name="text_m3_p5_title">Estilos de vida: evito consumir</string>
+    <string name="text_m3_p5_desc">Alcohol</string>
+    <string name="text_m3_p5_desc2">Drogas</string>
+    <string name="text_m3_p5_desc3">Café, gaseosa y té</string>
+    <string name="text_m3_p5_desc4">Tabaco</string>
+    <string name="text_m3_p5_desc5">También evito exponerme al humo de cigarro</string>
+
+    <!-- M3 P6 -->
+    <string name="text_m3_p6_title">Estilos de vida: higiene personal</string>
+    <string name="text_m3_p6_desc">Me baño todos los días, con agua limpia y jabón.</string>
+    <string name="text_m3_p6_desc2">Cepillo mis dientes 2 o 3 veces al día y en lo posible
+    uso hilo dental a diario.</string>
+
+    <!-- M3 P7 -->
+    <string name="text_m3_p7_title">Estilos de vida: buenos hábitos</string>
+    <string name="text_m3_p7_desc">Evito el trabajo pesado.</string>
+    <string name="text_m3_p7_desc2">Tomo <b>descansos duarante el día,</b> cuando me sienta cansada.</string>
+    <string name="text_m3_p7_desc3">A medida que avance el embarazo, trato de <b>acostarme sobre mi
+    lado izquierdo.</b></string>
+    <string name="text_m3_p7_desc4">Comino, bailo, realizo ejercicios moderados y de relajacíon de
+    manera periódica y controlada, según la actividad física a la que estoy acostumbrada.</string>
+
+    <!-- M3 P8 -->
+    <string name="text_m3_p8_title">Estilos de vida: buena postura</string>
+    <string name="text_m3_p8_desc">Evito el trabajo pesado.</string>
+    <string name="text_m3_p8_desc2">Cuando me pare, distribuyo el peso de mi cuerpo y <b>extiendo los pies un poco más de lo normal.</b> Enderezo el pecho y evito
+    mantener los hombros hacia adelante.</string>
+    <string name="text_m3_p8_desc3">Cuando tenga que agarrar algo del suelo, doblo las rodillas y me agacho, manteniendo la cabeza y espalda rectas.</string>
+    <string name="text_m3_p8_desc4">Cuando este sentada, utilizo una almohada suave.
+        \nPara apoyar la espalda, uso una segunda almohada doblada por
+    la mitad en la zona baja de la espalda.</string>
+
+    <!-- M3 P9 -->
+    <string name="text_m3_p9_title">Estilos de vida: me protejo</string>
+
+    <string name="text_m3_p9_title_sub_1">Para reducir la acidez en el estómago</string>
+    <string name="text_m3_p9_desc">•Evito comer alimentos grasosos, ácidos y picantes.
+        \n•No me acuesto inmediatamente después de comer.</string>
+
+    <string name="text_m3_p9_title_sub_2">Para disminuir las náuseas y los vómitos</string>
+    <string name="text_m3_p9_desc2">•Trato de no estar con el estómago vacío ni demasiado lleno.
+        \n•Hago varias comidas pequeñas al día.
+        \n•No tomo ningún liquido mientras como para evitar llenarme muy rápido.</string>
+
+    <string name="text_m3_p9_title_sub_3">Para evitar el estreñimiento y las hemorroides</string>
+    <string name="text_m3_p9_desc3">•Tomo al menos 6-8 vasos de agua al día.
+        \n•Como alimentos ricos en fibra (frutas, verduras y cereales).
+        \n•Cuando surge la necesidad de defecar voy al baño y no me aguanto.</string>
+
+    <!-- M3 P10 -->
+    <string name="text_m3_p10_title">Estilos de vida: me protejo</string>
+    <string name="text_m3_p10_title_sub">Para prevenir la hinchazón de pies y calambres en las piernas</string>
+    <string name="text_m3_p10_desc">Duermo con los pies más elevados que mi cabeza.</string>
+    <string name="text_m3_p10_desc2">•Lavo mis pies con agua fría.
+        \n•Masajeo mis pies para mejorar mi circulación.</string>
+    <string name="text_m3_p10_desc3">Tomo al menos 6-8 vasos de agua al día para mantenerme hidratada.</string>
+
+    <!-- M3 P11 -->
+    <string name="text_m3_p11_title">Estilos de vida: me protejo</string>
+    <string name="text_m3_p11_title_sub">Para evitar infecciones en las vías urinarias</string>
+    <string name="text_m3_p11_desc">•Tomo al menos 6-8 vasos de agua al día.
+        \n•Evito las bebidas azucaradas (gaseosas y jugos artificiales).
+        \n•Al sentir la necesidad de orinar, lo hago en el momento para no tener molestia después.
+        \n•Al limpiarme después de orinar o defecar, lo hago de adelante hacia atrás.</string>
+
+    <!--    M3 P12-->
+    <string name="text_m3_p12_title">Estilo de vida: me protejo</string>
+    <string name="text_m3_p12_desc">Debido a que el embarazo debilita mi sistema inmunológico (defensa natural del cuerpo contra infecciones), me protejo de las picaduras de zancudos o de cualquier otro animal, duermo bajo un mosquitero.\n\nPuedo utilizar repelente contra insectos para prevenir dengue, chickuncunya y zika.</string>
+    <string name="text_m3_p12_desc_two"><b>La mejor posición para dormir es acostarme sobre mi lado izquierdo.</b></string>
+
+
+    <!--    M3 P13-->
+    <string name="text_m3_p13_title">Estilo de vida: me protejo</string>
+    <string name="text_m3_p13_desc">Tomo los medicamentos como me lo ha recetado el personal de salud:
+        \n\n•Sulfato Ferroso para protegerme de la anemia.
+        \n•Ácido fólico para disminuir problemas en el desarrollo de mi bebé.</string>
+    <string name="text_m3_p13_desc_two"><b>¡No me automedico!</b></string>
+    <string name="text_m3_p13_desc_three"><b>No compro medicinas en la calle.</b></string>
+
+    <!--    M3 P14-->
+    <string name="text_m3_p14_title">Relaciones personales: mi pareja y familia</string>
+    <string name="text_m3_p14_desc">Platico con mi pareja y mi familia sobre mi embarazo, mis necesidades y la manera en que pueden apoyarme.</string>
+    <string name="text_m3_p14_desc_two">En familia mantenemos la casa limpia, así como sus alrededores.\nEvitamos los depósitos de agua estancada que sirven de criadero para los zancudos.\nDejo los trabajos más pesados para otro miembro de mi familia.</string>
+    <string name="text_m3_p14_desc_three">Mi pareja y mi familia están pendientes de mis medicamentos  y  de facilitarme una alimentación sana y variada durante mi  embarazo.</string>
+
+    <!--    M3 P15-->
+    <string name="text_m3_p15_title">Relaciones personales: mi pareja y familia</string>
+    <string name="text_m3_p15_desc">Mi pareja o alguien de mi familia me acompaña al establecimiento  de salud para los controles prenatales.</string>
+    <string name="text_m3_p15_desc_two">Con mi pareja hablamos sobre el embarazo, el nacimiento de nuestro bebé y las responsabilidades que asumiremos como madre y padre.</string>
+    <string name="text_m3_p15_desc_three">Comentamos con la familia y amistades sobre la llegada del bebé al hogar.</string>
+    <string name="text_m3_p15_desc_four">La actividad <b>sexual</b> no afecta a mi bebé, siempre y cuando no tenga complicaciones, como una amenaza de parto prematuro, hemorragias vaginales, infecciones de transmisión sexual  y problemas con la placenta.</string>
+
+    <!--    M3 P16-->
+    <string name="text_m3_p16_title">Embarazo en tiempos de COVID-19 <br></br></string>
+    <string name="text_m3_p16_desc1"> <b>Cuido mi salud</b> </string>
+    <string name="text_m3_p16_desc2"> • uso la mascarilla de manera correcta (cubriendo nariz y boca). </string>
+    <string name="text_m3_p16_desc3"> • evito tocarme los ojos, la nariz o la boca. </string>
+    <string name="text_m3_p16_desc4"> • no saludo de mano ni de beso.  </string>
+    <!--    M3 P17-->
+    <string name="text_m3_p17_title">Embarazo en tiempos de COVID-19 <br></br></string>
+    <string name="text_m3_p17_desc1">Respeto la distancia de al menos 2 metros con otras personas.</string>
+    <string name="text_m3_p17_desc2">Me lavo las manos frecuentemente con agua y jabón.</string>
+    <string name="text_m3_p17_desc3">Me cubro la nariz y boca con el antebrazo al estornudar o toser. </string>
+
+    <!--    M3 P18-->
+    <string name="text_m3_p18_title">Embarazo en tiempos de COVID-19 <br></br></string>
+    <string name="text_m3_p18_desc1">Mantengo ventilada mi vivienda.</string>
+    <string name="text_m3_p18_desc2">Desinfecto mi calzado antes de entrar a mi casa</string>
+
+    <!--    M3 P19-->
+    <string name="text_m3_p19_title">Embarazo en tiempos de COVID -19 <br></br></string>
+    <string name="text_m3_p19_desc1"><b>Estoy atenta si presento los siguientes síntomas:</b></string>
+    <string name="text_m3_p19_desc2"><br>•Dolor de garganta, tos (especialmente seca).</br>
+        \n<br>•Dificulta para respirar y dolor de pecho fiebre.</br>
+        \n<br>•Pérdida repentina del olfato y/o el gusto.</br>
+        \n<br>•Dolor de cabeza, decaimiento y sensación de malestar.</br>
+        \n<br>•Náuseas, vómito y diarrea.</br>
+        \n<br>•Erupciones en la piel.</br></string>
+    <string name="text_m3_p19_desc3"><b>Si presento algunos de estos síntomas llamo al Sistema de Emergencias Médicas 132.</b></string>
+
+
+    <!-- Modulo 4   -->
+
+    <!--M4 P1-->
+    <string name="text_m4_p1_title">4. Preparación para el nacimiento</string>
+    <string name="text_m4_p1_desc">
+        Con el apoyo de mi pareja y familia, me preparo para el nacimiento de mi bebé. Planificamos su
+        llegada para reducir riesgos y estar lista cuando llegue el momento del parto.
+        \n\nJunto al personal de salud identifico el hospital donde debo ir en caso de emergencia o cuando vaya dar a luz.
+    </string>
+
+    <!--Items-->
+    <string name="text_m4_p1_i1">Ventajas del parto hospitalario.</string>
+    <string name="text_m4_p1_i2">Hogar de Espera Materna.</string>
+    <string name="text_m4_p1_i3">Pasantía hospitalaria.</string>
+    <string name="text_m4_p1_i4">Medio de transporte.</string>
+    <string name="text_m4_p1_i5">Elección de acompañante.</string>
+    <string name="text_m4_p1_i6">Preparo mi maleta para ir al hospital.</string>
+    <string name="text_m4_p1_i7">Apoyo de mi comunidad.</string>
+    <string name="text_m4_p1_i8">Preparación física.</string>
+    <string name="text_m4_p1_i9">Signos de alarma.</string>
+    <string name="text_m4_p1_i10">Ahorro de dinero.</string>
+    <string name="text_m4_p1_i11">Nacimiento en tiempos de Covid-19.</string>
+
+    <!--M4 P2-->
+    <string name="text_m4_p2_title">Ventajas del parto hospitalario</string>
+    <string name="text_m4_p2_desc"><b>Tengo derecho y conozco las ventajas de dar a luz en un hospital:</b>
+        \n\n•Disponibilidad de personal de salud especializado.
+        \n•Acceso a sala de parto y de cirugía.
+        \n•Disponibilidad de medicamentos.
+        \n•Aplicación de las primeras vacunas para mi bebé: BCG y Hepatitis B.
+        \n•Inscripción del nacimiento de mi bebé.
+    </string>
+
+    <!--M4 P3-->
+    <string name="text_m4_p3_title">Hogar de Espera Materna</string>
+    <string name="text_m4_p3_desc">Cerca de la fecha de parto o después del parto acudo a un Hogar de Espera Materna (HEM), para hospedarme.
+        \n\nEl HEM es un lugar acogedor que me ofrece las siguientes ventajas:
+    </string>
+    <string name="text_m4_p3_desc2">•Me ofrecen una atención especializada brindada por el personal de salud.
+        \n\n•Participo en charlas educativas sobre el parto, post-parto y cuidado de mi bebé.
+        \n\n•Me escuchan y puedo sentirme tranquila para hacer preguntas y aclarar mis dudas.
+    </string>
+
+    <!--  M4P4  -->
+    <string name="text_m4_p4_title">Hogar de Espera Materna</string>
+    <string name="text_m4_p4_desc">•Participo en las actividades de jardinería y ornato en huertos caseros.
+        \n\n•Colaboro en la preparación de nuestros alimentos, asi como en el arreglo y limpieza de las instalaciones.
+        \n\n•Realizo actividades personales como mi limpieza e higiene, el arreglo de mi espacio personal, la organización de mi cama, el lavado, secado y planchado de mi ropa, entre otros.
+        \n\n•Mi familia puede visitarme si las condiciones de salud lo permiten.
+        \n\n•Me garantizan el traslado hacia el hospital para recibir la atención médica necesaria.
+    </string>
+    <string name="text_m4_p4_desc2"><b>¡Los servicios son gratuitos!</b></string>
+
+    <!--  M4P5  -->
+    <string name="text_m4_p5_title">Pasantía hospitalaria</string>
+    <string name="text_m4_p5_desc">Me informo sobre la pasantía hospitalaria en el centro de salud,
+        la cual es una visita guiada por enfermeras que me permite conocer las instalaciones de
+        hospital y el recorrido que realizo el día del parto (como el archivo, sala de espera,
+        sala de expulsión, entre otras áreas).
+        \n\nMe ayuda a tener confianza, identificar y tratar mis
+        preocupaciones relacionadas con el parto y mi ingreso al hospital.</string>
+    <string name="text_m4_p5_desc2"><b>Si las condiciones de salud lo permiten puedo ir acompañada.</b></string>
+
+    <!--  M4P6  -->
+    <string name="text_m4_p6_title">Medio de transporte</string>
+    <string name="text_m4_p6_desc">Junto con mi pareja y familia, identifico el medio de transporte en el cual voy a
+        trasladarme, llegado el momento del parto o en caso de emergencia.\nTomamos
+        en cuenta la distancia y posibles dificultades que puedan presentarse cómo
+        las condiciones climáticas entre otras.</string>
+    <string name="text_m4_p6_desc2">Es muy importante tener a la mano el número de teléfono de la persona
+        encargada de transportarme.</string>
+
+    <!--  M4P7  -->
+    <string name="text_m4_p7_title">Elección de acompañante</string>
+    <string name="text_m4_p7_desc">Me reúno con mi pareja y familia, para elegir la persona que me
+        acompañe al hospital.</string>
+    <string name="text_m4_p7_desc2">Si las condiciones de salud lo permiten, puede permanecer conmigo
+        en el hospital.\nEn familia acordamos la persona encargada de cuidar mis hijos/hijas,
+        llegado el momento del parto o en caso de emergencia.</string>
+
+    <!--  M4P8  -->
+    <string name="text_m4_p8_title">Preparo mi maleta para ir al hospital</string>
+    <string name="text_m4_p8_desc">Para que las cosas necesarias no falten, selecciono con anticipación lo que debo llevar al hospital y lo pongo en una maleta.</string>
+    <string name="text_m4_p8_desc2"><b>Preparo los documentos, recuerdo llevar:</b>
+        \n•Mi agenda prenatal.
+        \n•DUI.
+        \n•Carnet de minoridad o partida de nacimiento (si soy menor de edad).
+        \n•Fotocopia del DUI del padre de mi bebé, si estoy acompañada o casada.
+        \n\n<b>Para uso de mi bebé:</b></string>
+    <string name="text_m4_p8_minidesc">Camisa</string>
+    <string name="text_m4_p8_minidesc2">Mameluco</string>
+    <string name="text_m4_p8_minidesc3">Pañales</string>
+    <string name="text_m4_p8_minidesc4">Frazada</string>
+    <string name="text_m4_p8_minidesc5">Gorro</string>
+    <string name="text_m4_p8_minidesc6">Calcetines</string>
+
+    <!--  M4P9  -->
+    <string name="text_m4_p9_title">Preparo mi maleta para ir al hospital</string>
+    <string name="text_m4_p9_desc"><b>Para mi uso:</b></string>
+    <string name="text_m4_p9_minidesc">Maleta</string>
+    <string name="text_m4_p9_minidesc2">Toalla</string>
+    <string name="text_m4_p9_minidesc3">Jabón</string>
+    <string name="text_m4_p9_minidesc4">Peine</string>
+    <string name="text_m4_p9_minidesc5">Pasta de dientes</string>
+    <string name="text_m4_p9_minidesc6">Cepillo dental</string>
+    <string name="text_m4_p9_minidesc7">Ropa</string>
+    <string name="text_m4_p9_minidesc8">Sandalias</string>
+    <string name="text_m4_p9_minidesc9">Ropa interior</string>
+    <string name="text_m4_p9_minidesc10">Papel higiénico</string>
+    <string name="text_m4_p9_minidesc11">Toalla sanitaria</string>
+
+    <!--  M4P10  -->
+    <string name="text_m4_p10_title">Apoyo de mi comunidad</string>
+    <string name="text_m4_p10_desc">Es importante promover el apoyo de la comunidad (en la colonia, caserío donde vivo), fomentando la solidaridad entre todas
+    las personas y las mujeres embarazadas y sus bebés.</string>
+    <string name="text_m4_p10_desc2">Busco apoyo para prevenir o atender dificultades en caso de no contar con familiares cercanos en el momento del
+    nacimiento o imprevistos como:
+        \n•Transporte para el traslado al hospital.
+        \n•Encontrar alternativas para el cuidado de mis hijos/hijas.
+        \n•Ayudarme en caso de no poder preparar mis alimentos, etc.</string>
+
+    <!--  M4P11  -->
+    <string name="text_m4_p11_title">Preparación física</string>
+    <string name="text_m4_p11_desc">Mantengo en forma mi cuerpo y mente, realizando una rutina de ejercicios que me ayudan a mantener una actitud positiva
+    fundamental para tener un embarazo y parto saludables.</string>
+    <string name="text_m4_p11_desc2">Fortalezco los músculos que más trabajan durante el nacimiento, de esta forma mi trabajo de parto será más fácil y menos doloroso:\n\n
+        • Aprieto los músculos de mi vagina durante 5 segundos como si fuese a contener la orina o los gases y luego los relajo por 10 segundos.</string>
+    <string name="text_m4_p11_desc3">• Aprieto los glúteos y los muslos, lentamente los levanto del suelo (haciendo un medio puente) y soplo durante 10 segundos. Luego bajo gradualmente y con calma.</string>
+
+    <!--  M4P12  -->
+    <string name="text_m4_p12_title">Preparación física\nTécnicas de respiración</string>
+    <string name="text_m4_p12_desc">Realizo ejercicios de respiración para poder lograr un trabajo de parto exitoso con el menor dolor posible y con el objetivo de brindar a mi bebé una buena oxigenación durante todo el proceso de su nacimiento.\n\n<b>Practico algunas técnicas de respiración:</b> </string>
+    <string name="text_m4_p12_desc_two"><b>Respiración  abdominal (profunda)</b>\nMe sirve para aliviar los dolores de parto más intensos durante la fase de dilatación del cuello uterino.\n\nTomo aire por la nariz para que los pulmones se llenen, al tiempo que el abdomen se hincha poco a poco. Expulso el aire lentamente por la boca mientras se contraen los músculos del abdomen.</string>
+
+    <!--  M4P13  -->
+    <string name="text_m4_p13_title">Preparación física\nTécnicas de respiración</string>
+    <string name="text_m4_p13_desc"><b>Respiración jadeante “ji-ji-ju”</b>\nMe sirve para aliviar los dolores cuando las contracciones sean más intensas.\nMe ubico en una posición cómoda y con la barbilla elevada soplando hacia el frente para evitar el pujo. Respiro siguiendo un patrón de "jadeo y soplido", que debe durar unos 10 segundos.</string>
+    <string name="text_m4_p13_desc_two">• Tomo aire profundamente por la nariz (cuando comience una contracción).\n• Soplo con 2 jadeos cortos pronunciando la sílaba “Ji” seguidos por un soplido más largo pronunciando la sílaba “Ju”.\n\nRepito esta respiración unos 6 veces por minuto, aproximadamente.</string>
+
+    <!--  M4P14  -->
+    <string name="text_m4_p14_title">Signos de alarma</string>
+    <string name="text_m4_p14_desc">Recuerdo que ante cualquier signo de alarma debo de acudir inmediatamente a cualquier establecimiento de salud.</string>
+    <string name="text_m4_p14_desc_photo_one">Inflamación de cara, manos y pies</string>
+    <string name="text_m4_p14_desc_photo_two">Dolor de cabeza intenso</string>
+    <string name="text_m4_p14_desc_photo_three">Visión borrosa</string>
+    <string name="text_m4_p14_desc_photo_four">Dolor en la boca del estómago.</string>
+
+    <!--  M4P15  -->
+    <string name="text_m4_p15_title">Signos de alarma</string>
+    <string name="text_m4_p15_desc_photo_one">Pérdida de liquido que sale de la vagina antes de la fecha de parto</string>
+    <string name="text_m4_p15_desc_photo_two">Sangrado vaginal</string>
+    <string name="text_m4_p15_desc_photo_three">Dolor  abdominal de fuerte intensidad</string>
+
+    <!--  M4P16 -->
+    <string name="text_m4_p16_title">Signos de alarma</string>
+    <string name="text_m4_p16_desc_one">Disminución de los movimientos de mi bebé</string>
+    <string name="text_m4_p16_desc_two">Estoy atenta a partir de las 16 semanas de los movimientos de mi bebé.</string>
+    <string name="text_m4_p16_desc_three"><b>Un/a bebé que no se mueve durante varias horas significa que hay problemas.</b></string>
+
+    <!--  M4P17  -->
+    <string name="text_m4_p17_title">Ahorro de dinero</string>
+    <string name="text_m4_p17_desc_one">Ahorramos dinero y de esta manera estamos preparados para realizar las compras esenciales para nuestro bienestar,  como ropa, alimentos, transporte o gastos inesperados relacionados al nacimiento.</string>
+
+    <!--  M4P18  -->
+    <string name="text_m4_p18_title">Nacimiento en tiempos de COVID-19</string>
+    <string name="text_m4_p18_desc_one">Las mujeres embarazadas corren un mayor riesgo de presentar manifestaciones graves de la COVID-19. Es importante dar a luz en un centro hospitalario donde cuento con todas las medidas sanitarias.</string>
+    <string name="text_m4_p18_desc_two">En tiempos de COVID, pongo en práctica todas las medidas de seguridad para evitar contagiarme y contagiar mi bebé.</string>
+    <string name="text_m4_p18_desc_three">Entre otras precauciones:\n
+        <br>• me lavo bien las manos;</br>\n<br>• si tengo síntomas de Covid-19 o algún miembro de mi familia, utilizo mascarilla.</br></string>
+    <string name="text_m4_p18_desc_four"><b>Si presento síntomas, llamo inmediatamente al Sistema de Emergencias Médicas 132 o me dirijo al establecimiento de salud.</b></string>
+
+
+    <!-- Modulo 5   -->
+
+    <!--M5 P1-->
+    <string name="text_m5_p1_title">5. El nacimiento</string>
+    <string name="text_m5_p1_desc">
+        ¡Estoy al final de mi embarazo!\n
+        <b>A partir de ahora mi bebé puede nacer.</b>
+    </string>
+
+    <!--Items-->
+    <string name="text_m5_p1_i1">Signos de parto.</string>
+    <string name="text_m5_p1_i2">Etapas del parto.</string>
+    <string name="text_m5_p1_i3">Etapa 1: trabajo de parto.</string>
+    <string name="text_m5_p1_i4">Etapa 2: expulsión de mi bebé.</string>
+    <string name="text_m5_p1_i5">Etapa 3: expulsión de la placenta.</string>
+    <string name="text_m5_p1_i6">Complicaciones durante el nacimiento.</string>
+    <string name="text_m5_p1_i7">Complicaciones durante el parto.</string>
+    <string name="text_m5_p1_i8">Cesárea.</string>
+    <string name="text_m5_p1_i9">Después del nacimiento.</string>
+    <string name="text_m5_p1_i10">Lactancia materna.</string>
+    <string name="text_m5_p1_i11">Amamantamiento en tiempos de Covid-19.</string>
+    <string name="text_m5_p1_i12">Sangrado en el post-parto inmediato.</string>
+    <string name="text_m5_p1_i13">Después del nacimiento.</string>
+    <string name="text_m5_p1_i14">Nacimiento en tiempos de Covid -19.</string>
+
+    <!--M5 P2-->
+    <string name="text_m5_p2_title">Signos de parto</string>
+    <string name="text_m5_p2_desc">
+        Al final de mi embarazo debo estar atenta a las
+        señales que me indican que mi bebé está por
+        nacer para dirigirme inmediatamente al hospital.\n\n
+
+        <b>Reconozco las señales\n</b>
+
+        <b>Expulsión del tapón mucoso:</b> El tapón
+        mucoso es una sustancia que sirve para
+        cerrar la entrada de mi útero (matriz) y que
+        impide que las bacterias interfieran en el
+        desarrollo de mi bebé. Una vez expulsado, el
+        tapón es muy parecido a un flujo
+        blanquecino en poca cantidad y bastante
+        espeso, el cual es liberado unas dos semanas
+        antes del nacimiento. La pérdida del tapón
+        no causa dolor y puede pasar desapercibida.
+    </string>
+
+    <!--M5 P3-->
+    <string name="text_m5_p3_title">Signos de parto</string>
+    <string name="text_m5_p3_desc">
+        <b>Ruptura de la bolsa de agua o ruptura de fuente</b>\n
+
+        Al final de mi embarazo la
+        bolsa de agua se rompe y el
+        líquido contenido en ella sale
+        por mi vagina poco a poco o
+        en grandes cantidades. Esta
+        pérdida de agua puede
+        ocurrir antes de cualquier
+        dolor en la parte inferior del
+        abdomen o durante el
+        trabajo de parto.
+    </string>
+    <string name="text_m5_p3_desc2">
+        <b>Contracciones\n</b>
+        Cuando comienza el trabajo de parto, las
+        contracciones se vuelven más intensas, regulares
+        y largas. A medida que se aproxima el
+        nacimiento se vuelven lentamente más
+        frecuentes. Ocurren en la zona lumbar (parte
+        baja de la espalda) o en el vientre que primero se
+        endurece y luego se relaja.
+    </string>
+
+    <!--  M5P4  -->
+    <string name="text_m5_p4_title">Etapas del parto</string>
+    <string name="text_m5_p4_desc">
+        Estas 3 etapas siempre se llevan a cabo. Pero la duración de cada etapa puede variar
+        de una mujer a otra y de un nacimiento a
+        otro.
+    </string>
+    <string name="text_m5_p4_option1"><b>1) Trabajo de parto</b></string>
+    <string name="text_m5_p4_option2"><b>2) Expulsión de mi bebé</b></string>
+    <string name="text_m5_p4_option3"><b>3) Expulsión de la placenta</b></string>
+
+    <!--  M5P5  -->
+    <string name="text_m5_p5_title">Etapa 1: trabajo de parto</string>
+    <string name="text_m5_p5_desc">
+        Cuando inicio el trabajo de parto, comienzan
+        las <b>contracciones</b>, las cuales <b>varían en
+        duración e intensidad:</b>\n• al principio las siento irregulares y duran
+        alrededor de un minuto;\n• después, se intensifican y se vuelven más
+        seguidas;\n• en el punto más alto del trabajo de parto,
+        siento las contracciones más frecuentes,
+        largas y dolorosas.\n
+    </string>
+
+    <!--  M5P6  -->
+    <string name="text_m5_p6_title">Etapa 1: trabajo de parto</string>
+    <string name="text_m5_p6_desc">
+        Bajo la fuerza de las contracciones, mi bebé
+        comienza a buscar la posición de salida, se
+        pone cabeza abajo y encaja su cráneo entre
+        los huesos de mi pelvis. Presiona su cabeza
+        contra la parte más baja de mi útero
+        llamada cérvix, la cual se abre poco a poco.
+        
+        Mi bebé también puede estar en posición de
+        nalgas o atravesado, si es así, me indican la
+        cesárea.\n
+        
+        La bolsa de agua que contiene el líquido
+        amniótico que protege a mi bebé, se rompe
+        en este momento, en caso de no haberse
+        roto antes.
+    </string>
+
+    <!-- M5P7 -->
+    <string name="text_m5_p7_title"> Durante el trabajo de parto</string>
+    <string name="text_m5_p7_desc1">Debo entender cada uno de los procedimientos
+        que el personal de salud me realiza y si tengo inquietudes, no dudo en preguntar.</string>
+    <string name="text_m5_p7_desc2">Toman mi peso, talla, temperatura y presión arterial.
+        También monitorean los latidos del corazón de mi bebé.</string>
+    <string name="text_m5_p7_desc3">Me realizan controles vaginales para comprobar la posición de mi
+        bebé y la apertura del cuello uterino, la cual debe ser lo suficientemente ancha para
+        permitir el paso de mi bebé.</string>
+
+    <!-- M5P8 -->
+    <string name="text_m5_p8_title">Durante el trabajo de parto</string>
+    <string name="text_m5_p8_desc1">Puedo caminar durante el trabajo de parto.</string>
+    <string name="text_m5_p8_desc2">Toda la información se registra en mi expediente clínico.</string>
+
+    <!-- M5P9 -->
+    <string name="text_m5_p9_title">Etapa 2: expulsión de mi bebé</string>
+    <string name="text_m5_p9_desc1">Cuando ya estoy totalmente dilatada, llega el momento de la
+        expulsión de mi bebé. Siento unas ganas incontrolables de empujar, una sensación semejante
+        a querer defecar. El personal de salud me indica el momento en el que debo pujar con fuerza
+        para ayudar a mi bebé a bajar por el canal de parto.\n\n\nMi vagina se estira para dar paso
+        a mi bebé.</string>
+    <string name="text_m5_p9_desc2"><b>¡llegó el momento de conocer a mi bebé!</b></string>
+
+    <!-- M5P10 -->
+    <string name="text_m5_p10_title">Durante el nacimiento</string>
+    <string name="text_m5_p10_desc1">Doy a luz en la sala de expulsión, donde sigo las indicaciones
+        del personal de salud, quienes me orientan sobre la posición más adecuada para el nacimiento
+        de mi bebé.\nSi las condiciones de salud lo permiten mi pareja u otra persona de mi elección
+        puede estar conmigo.\nEl personal de salud continúa registrando datos sobre mi salud y la
+        de mi bebé.</string>
+
+    <!-- M5P11 -->
+    <string name="text_m5_p11_title">Etapa 3: Expulsión de la placenta</string>
+    <string name="text_m5_p11_desc1">Me encuentro en la parte final del proceso del nacimiento y en
+        la siguiente contracción debo hacer fuerza y empujar para que la placenta se deprenda y salga
+        de mi útero.</string>
+    <string name="text_m5_p11_desc2">El personal de salud presta atención si:\n• han pasado más de
+        30 minutos y la placenta no ha sido expulsada de mi cuerpo;\n• la placenta no ha salido
+        completa y han quedado pedazos de ella dentro de mi útero. En este caso existe riesgo de
+        infección y sangrado.</string>
+
+    <!-- M5P12 -->
+    <string name="text_m5_p12_title">Complicaciones durante el \n nacimiento</string>
+    <string name="text_m5_p12_desc1"><b>* El trabajo de parto no progresa:</b> las contracciones se
+        debilitan, el cuello de la matriz no se dilata lo suficiente o la/el bebé no baja a través
+        del canal de parto.</string>
+    <string name="text_m5_p12_desc2"><b>* Desgarros:</b> si la/el bebé es muy grande, es probable que
+        ocasione desgarros en la vagina, que puedan requerir suturas (coser la herida).</string>
+
+
+    <!--  M5P13  -->
+    <string name="text_m5_p13_title">Complicaciones durante el parto</string>
+    <string name="text_m5_p13_desc"><b>• Problemas con el cordón umbilical:</b> puede enrollarse en un brazo, pierna o el cuello del bebé. El
+    personal de salud interviene para que no sufra de asfixia.</string>
+    <string name="text_m5_p13_desc2"><b>• La placenta se desprende del útero antes del nacimiento:</b> esto puede ocasionar la falta de oxígeno y nutrientes al bebé.</string>
+    <string name="text_m5_p13_desc3"><b>• Posición anormal del bebé:</b> puede estar de nalgas o atravesado.</string>
+
+    <!--  M5P14  -->
+    <string name="text_m5_p14_title">Complicaciones durante el parto</string>
+    <string name="text_m5_p14_desc"><b>• Bebé que defeca dentro del útero:</b> La/el bebé puede tomar líquido mezclado con heces lo cual puede ocasionar
+    la obstrucción (tapado) de sus pulmones.</string>
+    <string name="text_m5_p14_desc2">Cuando un/a bebé tiene dificultad para salir de la vagina, el personal de salud realiza una pequeña cirugía llamada <b>episiotomía</b>, la cual
+    ayuda al bebé a tener más espacio para su salida.</string>
+    <string name="text_m5_p14_desc3"><b>Las complicaciones pueden causar lesiones o la muerte al bebé, por eso es importante dar a luz en un hospital, y realizar todos los
+    controles prenatales para que me orienten sobre los posibles riesgos.</b></string>
+
+    <!--  M5P15  -->
+    <string name="text_m5_p15_title">Cesárea</string>
+    <string name="text_m5_p15_desc">En casos estrictamente necesarios, el/la bebé se saca a través de una operación en la zona baja del vientre. Esta intervención se conoce como
+    <b>cesárea</b> y debe ser realizada en un hospital.\n
+    Se planifica junto al personal de salud durante el embarazo y podría requerirse en casos como: un/a bebé demasiado grande, mal posicionado o en caso de desprendimiento de placenta antes del tiempo.</string>
+    <string name="text_m5_p15_desc2">La cesárea se puede realizar de <b>manera urgente, en caso de complicaciones</b> durante el trabajo de
+        parto, por ejemplo: si la/el bebé deja de moverse o no avanza el trabajo de parto.</string>
+    <string name="text_m5_p15_desc3"><b>Tener la enfermedad de COVID-19 no requiere un parto por cesárea, pero pueden indicármela en caso de tener una condición médica.</b></string>
+
+    <!--  M5P16  -->
+    <string name="text_m5_p16_title">Después del nacimiento</string>
+    <string name="text_m5_p16_desc">Justo después del nacimiento, si las condiciones de salud lo permiten, ponen mi bebé sobre mi pecho para tener un contacto "piel a piel" y crea
+        un vínculo de unión en este momento tan especial.</string>
+
+    <!--  M5P17  -->
+    <string name="text_m5_p17_title">Después del nacimiento</string>
+    <string name="text_m5_p17_desc">El personal de salud evalúa a mi bebé y le  brindan la atención adecuada: \n \n
+        • le colocan un brazalete en su brazo con mi nombre, el nombre de mi bebé, el sexo y el número de expediente;\n
+        • limpian todo su cuerpo y le brindan calor;\n
+        • le realizan el examen físico general (para verificar su condición de salud);\n
+        • limpian sus ojos y administran gotas para prevenir infecciones;\n
+        • si es necesario, limpian la boca y fosas nasales con una perilla;\n
+        • aplican una inyección de vitamina K.</string>
+    <string name="text_m5_p16_desc2">Limpieza de la boca y fosas nasales con una perilla.</string>
+
+    <!--  M5P18 -->
+    <string name="text_m5_p18_title">Después del nacimiento</string>
+    <string name="text_m5_p18_desc">Cuando un/a bebé nace antes de tiempo o con bajo peso necesita cuidados especiales. En estos casos debe quedarse en el hospital
+        hasta recuperar un buen estado de salud.\n
+        La Estrategia Canguro es una técnica que se basa en el contacto piel a piel entre la madre u otro miembro de la familia y el/la bebé. El tiempo por sesión debe ser 1 hora,
+        aumentando en la medida que pasan las sesiones, para mejorar el peso del bebé.</string>
+    <string name="text_m5_p18_desc2"><b>Solicitamos información al personal de salud sobre la Estrategia Canguro.</b></string>
+
+    <!--  M5P19  -->
+    <string name="text_m5_p19_title">Después del nacimiento</string>
+    <string name="text_m5_p19_desc">Esta estrategia proporciona seguridad y otros beneficios como:</string>
+    <string name="text_m5_p19_desc2">• genera un vínculo emocional entre la persona que realiza el contacto directo y el/la bebé;
+    \n• mejora la regulación de la temperatura;
+    \n• aumenta las posibilidades de éxito de la lactancia materna exclusiva;
+    \n• contribuye en la ganancia de peso;
+    \n• favorece su desarrollo neurológico;
+    \n• estimula una relación estrecha que le proporciona seguridad y tranquilidad;
+    \n• minimiza el tiempo de hospitalización.</string>
+
+    <!--  M5P20  -->
+    <string name="text_m5_p20_title">Lactancia materna</string>
+    <string name="text_m5_p20_desc"><b>El calostro</b>,es la leche materna especial que produzco en los primeros días después del parto o incluso antes del parto.
+    \nDe color amarillento claro y espeso, bajo en grasas y muy fácil de dirigir. Una pequeña cantidad es suficiente para saciar el hambre del pequeño estómago de mi bebé.
+    \nEs un alimento completo que contiene varios nutrientes que le ayudan a protegerse y a estimular su sistema de defensa.</string>
+    <string name="text_m5_p20_desc_2"><b>La leche materna es el mejor alimento para mi bebé.</b></string>
+
+    <!--  M5P21  -->
+    <string name="text_m5_p21_title">Lactancia materna</string>
+    <string name="text_m5_p21_desc"><b>• Iniciar la lactancia en la primera hora de vida de mi bebé.</b>
+    \nEs un momento de máxima sensibilidad para activar los lazos afectivos que favorecen la producción de leche. En este instante mi bebé está más despierta/o y con un instinto (reflejo) de succión que estimula la subida de la leche.</string>
+    <string name="text_m5_p21_desc_2"><b>• Brindarle a mi bebé la leche materna a libre demanda.</b>
+    \nCon la frecuencia que quiera y por el tiempo que necesite, tanto de día como de noche.\nEs necesario alimentarme muy bien y tomar mucha agua para producir suficiente leche.</string>
+    <string name="text_m5_p21_desc_3"><b>• Lactancia materna exclusiva durante los primeros 6 meses.</b>
+    \nAmamanto mi bebé sólo con mi leche, durante el día y la noche. No le doy ningún otro tipo de alimento, ni sólido (papa, frijoles, queso, etc.), ni líquido (agua, atol, etc.), ni otra variedad de leche de bote (para evitar que se empache).</string>
+    <string name="text_m5_p21_desc_4"><b>La lactancia materna exclusiva durante los primeros 6 meses es el mejor alimento para mi bebé ya que proporciona todos los nutrientes y energía necesarios para su crecimiento y desarrollo.</b></string>
+
+    <!--  M5P22  -->
+    <string name="text_m5_p22_title">Lactancia materna</string>
+    <string name="text_m5_p22_desc">La leche materna tiene múltiples <b>ventajas</b> tanto para mi bebé como para  mi, así como para mi familia y la sociedad (ambiente).</string>
+    <string name="text_m5_p22_desc_2"><b>Ventajas para mi bebé:</b>
+        \n\n• es el mejor alimento porque tiene todo lo que mi bebé requiere, incluyendo el agua en la cantidad necesaria para hidratarle;
+        \n• sirve de estímulo para los sentidos del tacto, vista, oído y olfato, permitiendo un mejor desarrollo de las capacidades de mi  bebé;
+        \n• ayuda a que crezca sano/sana, fuerte y seguro/segura;
+        \n• le protege de enfermedades (diarreas, resfriado e infecciones);
+        \n• está siempre lista y a la temperatura adecuada;
+        \n• permite una relación estrecha entre mi bebé y yo.
+
+    </string>
+
+    <!--  M5P23  -->
+    <string name="text_m5_p23_title">Lactancia materna</string>
+    <string name="text_m5_p23_desc"><b>Ventajas como madre:</b>
+        \n\n• me ahorra tiempo, dinero y trabajo;
+        \n• mi útero vuelve a su tamaño normal más rápidamente;
+        \n• reduce el riesgo de anemia (falta de hierro en la sangre) ya que hay menos hemorragias después del parto;
+        \n• favorable para prevenir algunos tipos de cáncer (pechos y ovarios);
+        \n• funciona como método anticonceptivo (hasta los 6 meses, siempre y cuando la lactancia sea exclusiva y no aparezca sangrado).</string>
+
+    <!--  M5P24  -->
+    <string name="text_m5_p24_title">Amamantamiento  en tiempos de Covid-19</string>
+    <string name="text_m5_p24_desc">Si estoy infectada con Covid-19, puedo amamantar mi bebé tomando las medidas de precaución necesarias para evitar el contagio:</string>
+    <string name="text_m5_p24_desc_2">• uso correctamente la mascarilla</string>
+    <string name="text_m5_p24_desc_3">• desinfecto mis manos en cada toma</string>
+    <string name="text_m5_p24_desc_4"><b>Si presento síntomas, llamo inmediatamente al Sistema de Emergencias Médicas 132 o me dirijo al establecimiento de salud.</b></string>
+
+    <!--  M5P25  -->
+    <string name="text_m5_p25_title">Sangrado en el post-parto inmediato </string>
+    <string name="text_m5_p25_desc_1">Es <b>normal</b> sangrar después del parto, el personal de salud me evalúa para asegurarse que todo esta bien.</string>
+    <string name="text_m5_p25_desc_2">El sangrado después al parto hasta los 40 días se llaman <b>loquios</b> y sirve para sacar los restos de placenta que permanecen dentro de mi útero.</string>
+    <string name="text_m5_p25_desc_3">Al principio, este sangrado es abundante  y tiene un color rojo brillante. Luego va disminuyendo  y se vuelve más claro.</string>
+    <string name="text_m5_p25_desc_4">El aseo personal es muy importante en esta etapa, por eso me baño diariamente, me cambio de ropa y de toalla sanitaria las veces que sea necesario.</string>
+
+    <!--  M5P26  -->
+    <string name="text_m5_p26_title">Sangrado en el post-parto inmediato</string>
+    <string name="text_m5_p26_desc_1"> No es normal si presento:
+        <br>• <b>sangrado significativo</b> (usar más de 2-3 toallas sanitarias en 15 minutos);</br>
+        <br>• sangrado con mal olor;</br>
+        <br>• fiebre alta.</br>
+    </string>
+    <string name="text_m5_p26_desc_2"> <b>Si presento cualquiera de estos síntomas requeriré tratamiento de inmediato</b></string>
+    <string name="text_m5_p26_desc_3">Si me han operado o si mi bebé o yo tenemos otras <b>complicaciones, nos quedamos más tiempo en el hospital y nos vamos cuando</b> las condiciones de salud mejoren.</string>
+    <!--  M5P27  -->
+
+    <string name="text_m5_p27_title">Después del nacimiento</string>
+    <string name="text_m5_p27_desc_1">Las contracciones continúan después del parto para permitir que el útero vuelva a su lugar y reduzca el sangrado. Estas contracciones provocan dolor, pero poco a poco comienzan a disminuir. </string>
+    <string name="text_m5_p27_desc_2"><b>Me quedo en el hospital 24 horas después del nacimiento o el tiempo necesario </b> para que el personal de salud  pueda verificar que no haya sangrado abundante y que mi bebé esta bien.</string>
+    <string name="text_m5_p27_desc_3">Mi pareja y familia pueden visitarme en el hospital si las condiciones de salud lo permiten.</string>
+
+    <!--  M5P28  -->
+
+    <string name="text_m5_p28_title">Después del nacimiento</string>
+    <string name="text_m5_p28_desc_1">Inscribo a mi bebé en el Registro Nacional de las Personas Naturales, en donde me solicitan:
+    <br>
+        mis documentos y los del padre de mi bebé, en caso que los dos estemos de acuerdo en hacer la inscripción;plantares de mi bebé.
+    </br></string>
+    <string name="text_m5_p28_desc_2">
+            Me entregan mi agenda prenatal y me orientan sobre el control post-parto que seguiré en la Unidad Comunitaria de Salud Familiar.
+            Después del parto, dispongo de un periodo de 7 días para acudir a este control.
+    </string>
+    <!--  M5P29  -->
+    <string name="text_m5_p29_title">Nacimiento en tiempos de COVID-19</string>
+    <string name="text_m5_p29_desc_1">Las mujeres embarazadas corren un mayor riesgo de presentar manifestaciones graves de COVID-19. Es importante dar a luz en un hospital donde cuento con todas las medidas sanitarias.</string>
+    <string name="text_m5_p29_desc_2"><b>Utilizo mascarilla durante el parto.</b></string>
+    <string name="text_m5_p29_desc_3">En tiempos de Covid-19, pongo en práctica todas las medidas de seguridad para evitar contagiarme y contagiar mi bebé.</string>
+    <string name="text_m5_p29_desc_4">Entre otras precauciones:
+        <br>• me lavo bien las manos;</br>
+        <br>• utilizo mascarilla siempre, tenga o no síntomas.</br>
+    </string>
+    <string name="text_m5_p29_desc_5"> <b>Si presento síntomas, llamo inmediatamente al Sistema de Emergencias Médicas 132 o me dirijo al establecimiento de salud.</b></string>
+    <!--  M5P30  -->
+
+    <string name="text_m5_p30_title">Nacimiento en tiempos de COVID-19</string>
+    <string name="text_m5_p30_desc_1">
+    <b>Recomendaciones:</b>
+        <br>*  puedo tocar y tener en brazos a mi bebé recién nacido/a si tengo Covid-19;</br>
+        <br>*  disfruto de una relación directa y temprana con mi bebé, un contacto piel a piel que favorece nuestro vínculo afectivo;</br>
+        <br>*  amamanto mi bebé de manera exclusiva, observando si respira bien;</br>
+        <br>*  debo lavarme las manos antes y después de tocar a mi bebé y mantener todas las superficies limpias;</br>
+        <br>*  si tengo síntomas de COVID-19 me pondré correctamente una mascarilla durante todo contacto con mi bebé.</br>
+    </string>
+
+
+    <!-- Modulo 6   -->
+
+    <!-- M6 P1 -->
+    <string name="text_m6_p1_title">6. En nuestro hogar después del nacimiento</string>
+    <string name="text_m6_p1_desc1">Tanto mi bebé como yo necesitamos cuidados después del nacimiento.
+        \nEn caso de complicaciones acudimos inmediatamente al establecimiento de salud.</string>
+
+    <!-- Items -->
+    <string name="text_m6_p1_i1">Cuidados de mi bebé.</string>
+    <string name="text_m6_p1_i2">Cuidados del cordón umbilical.</string>
+    <string name="text_m6_p1_i3">Lactancia materna.</string>
+    <string name="text_m6_p1_i4">Corresponsabilidad familiar durante la lactancia materna.</string>
+    <string name="text_m6_p1_i5">Posiciones para amamantar.</string>
+    <string name="text_m6_p1_i6">Amamantamiento en tiempos de Covid-19.</string>
+    <string name="text_m6_p1_i7">Estimulación temprana a mi bebé.</string>
+    <string name="text_m6_p1_i8">Evitamos acciones que dañan la salud de mi bebé.</string>
+    <string name="text_m6_p1_i9">Mi salud después del parto.</string>
+    <string name="text_m6_p1_i10">Cuidado de mis pezones.</string>
+    <string name="text_m6_p1_i11">Alimentación balanceada después del parto.</string>
+    <string name="text_m6_p1_i12">Estilo de vida: evito consumir.</string>
+    <string name="text_m6_p1_i13">Hábitos de higiene.</string>
+    <string name="text_m6_p1_i14">Cambio de humor.</string>
+    <string name="text_m6_p1_i15">Salud sexual.</string>
+    <string name="text_m6_p1_i16">Señales de peligro después del parto.</string>
+    <string name="text_m6_p1_i17">Señales de peligro en mi bebé.</string>
+    <string name="text_m6_p1_i18">Post-parto en tiempos de Covid-19.</string>
+
+    <!--M6 P2-->
+    <string name="text_m6_p2_title">Cuidados de mi bebé</string>
+    <string name="text_m6_p2_desc1">En casa nos aseguramos que duerma en un lugar cómodo, limpio,
+        tranquilo y seguro. De esta manera limitamos el riesgo de accidentes (caídas, picaduras, etc.)</string>
+    <string name="text_m6_p2_desc2">Le acostamos boca arriba sin ningún cojín o almohada que le
+        estorbe para respirar. Le cubrimos con una sábana limpia y delgada, si hace frío con una más
+        caliente.</string>
+    <string name="text_m6_p2_desc3"><b>Dormimos en un lugar seguro, limpio y libre de algún riesgo.</b></string>
+
+    <!--M6 P3-->
+    <string name="text_m6_p3_title">Cuidados de mi  bebé</string>
+    <string name="text_m6_p3_desc1">Le cambiamos el pañal cada vez que hace pipí o defeca, limpiándole adecuadamente el área genital. A mi niña le limpiamos las nalguitas de adelante hacia atrás.</string>
+    <string name="text_m6_p3_desc2">Debemos lavarnos las manos antes de atender, alimentar y cambiar a mi bebé.</string>
+    <string name="text_m6_p3_desc3">Le protegemos, brindamos calor y le cargamos cada vez que sea necesario.</string>
+
+    <!--M6 P4-->
+    <string name="text_m6_p4_title">Cuidados del cordón umbilical</string>
+    <string name="text_m6_p4_desc1">Una vez al día, limpiamos el cordón umbilical con una gasa esterilizada humedecida con alcohol al 70% y lo secamos con otra gasa estéril.</string>
+    <string name="text_m6_p4_desc2">Es importante dejarlo al aire libre para una rápida cicatrización. El cordón umbilical se cae entre 5 y 10 días después del nacimiento. Una vez caído, continuamos limpiándolo durante unos días con alcohol al 70% hasta que cicatrice por completo.
+        \n\n<b>Importante:</b> nos lavamos bien las manos antes y después de este proceso.</string>
+    <string name="text_m6_p4_desc3"><b>Para darle a mi bebé un baño completo, esperamos a que el cordón umbilical caiga en su totalidad.</b></string>
+
+    <!--M6 P5-->
+    <string name="text_m6_p5_title">Lactancia materna</string>
+    <string name="text_m6_p5_desc1">Alimentamos a mi bebé únicamente con leche materna. Si debo salir, me saco la leche y la coloco en un recipiente limpio y bien tapado.
+    \n\nDurante la lactancia, es posible que tenga dolor en la parte inferior del abdomen causado por la contracción del útero. Esto es  algo normal.</string>
+
+    <!--M6 P6-->
+    <string name="text_m6_p6_title">Lactancia materna</string>
+    <string name="text_m6_p6_desc1"><b>Signos que indican que mi bebé tiene hambre:</b>
+        \nLlora y se lleva las manos a la boca. Saca la lengua y tiene movimientos de succión.</string>
+    <string name="text_m6_p6_desc2"><b>Signos de una lactancia eficaz:</b>
+        \n•Me ubico en una posición cómoda y coloco a mi bebé correctamente frente a mi pecho.
+        \n•Mi pecho se siente blando después de amamantar.
+        \n•Mi bebé defeca 3 o más veces al día y orina frecuentemente.
+        \n•Mi bebé aumenta de peso.
+        \n•Mi bebé se relaja después de darle el pecho, se suelta cuando se ha saciado y hasta se duerme.</string>
+
+    <!--M6 P7-->
+    <string name="text_m6_p7_title">Lactancia materna</string>
+    <string name="text_m6_p7_desc1"><b>Frecuencia para amamantar:</b>
+        \nVaría de un bebé a otro y está determinada según las necesidades de mi bebé. Se recomienda que sea a libre demanda (las veces necesarias).</string>
+    <string name="text_m6_p7_desc2">Generalmente durante la primera semana la frecuencia de las
+        tomas es mayor en espacios aproximados de 2 horas, luego la frecuencia disminuye y los
+        espacios de amamantamiento varían entre 2 y 3 horas.\nDarle pecho por la noche es muy
+        importante ya que aseguro la adecuada producción de leche y pongo en práctica la lactancia
+        materna exclusiva que me ayuda la disminución de la fertilidad.</string>
+
+    <!--M6 P8-->
+    <string name="text_m6_p8_title">Corresponsabilidad familiar\ndurante la lactancia materna</string>
+    <string name="text_m6_p8_desc1">Es muy importante distribuir las tareas domésticas y las
+        responsabilidades entre toda la familia.\nLa lactancia materna es un momento único y especial
+        dedicado a mi bebé, para lo cual necesito tiempo, concentración y mucha energía.</string>
+    <string name="text_m6_p8_desc2"><b>Mi pareja y familia se encargan de:</b>
+        \n•Preparar los alimentos.
+        \n•Lavar la ropa.
+        \n•Limpiar dentro y fuera de la vivienda.
+        \n•Comprar alimentos y artículos de necesidad básica.
+        \n•Cuidar de mi bebé mientras tomo descanso.
+        \n•Atender mis demás hijos/hijas.</string>
+    <string name="text_m6_p8_desc3"><b>Las familias que comparten responsabilidades en el hogar,
+        contribuyen al derecho a la salud de las madres y sus recién nacidos/as.</b></string>
+    <!--M6 P9-->
+    <string name="text_m6_p9_title">Posiciones para\namamantar</string>
+    <string name="text_m6_p9_desc1"><b>Posición sentada:</b>
+        \nTomo a mi bebé en el hueco de mi brazo. Su cuerpo está de lado, su ombligo vuelto hacia mí y su cabeza descansa sobre mi brazo.</string>
+    <string name="text_m6_p9_desc2"><b>Posición semi-acostada:</b>
+        \nMi bebé se coloca boca abajo sobre mi abdomen. Mis manos están debajo de sus nalguitas.</string>
+    <string name="text_m6_p9_desc3"><b>Acostada de lado:</b>
+        \nEstoy recostada de lado y volteada hacia mi bebé que está muy cerca de mí. Pongo su cabeza al frente de mi pecho para que pueda succionar bien.</string>
+    <!--M6 P10-->
+    <string name="text_m6_p10_title">Posiciones para amamantar</string>
+    <string name="text_m6_p10_desc1"><b>Posición con el cojín:</b>
+        \nEstoy sentada y coloco un cojín en mis piernas. Mi bebé está debajo de mi brazo y sus pies sobresalen detrás de mí. Mi mano sostiene su cuello y lo guío hasta el pezón.</string>
+    <string name="text_m6_p10_desc2"><b>Posición bajo el brazo:</b>
+        \nSentada paso mi bebé bajo mi brazo del mismo lado del cual se alimentará.
+        \nEsta posición se recomienda si tengo pechos grandes o me han practicado cesárea.</string>
+
+    <!--M6 P11-->
+    <string name="text_m6_p11_title">Amamantamiento en tiempos de COVID-19</string>
+    <string name="text_m6_p11_desc_1">Si estoy infectada con COVID-19, puedo amamantar mi bebé tomando las medidas de precaución necesarias para evitar el contagio:
+        \n\nUso correctamente la mascarilla;
+    </string>
+    <string name="text_m6_p11_desc_2">Lavo mis manos en cada toma.
+    </string>
+    <string name="text_m6_p11_desc_3"><b>¡Evita automedicarte! Ante cualquier complicación llama inmediatamente al Sistema de Emergencias Médicas 132 o dirígete al establecimiento de salud.</b>
+    </string>
+
+    <!--M6 P12-->
+    <string name="text_m6_p12_title">Estimulación temprana a mi bebé</string>
+    <string name="text_m6_p12_desc_1">
+        Son todas las actividades de contacto (piel con piel) o juegos que realizamos, para fomentar el desarrollo de las capacidades físicas, emocionales, de lenguaje y sociales
+        de mi bebé.
+    </string>
+    <string name="text_m6_p12_desc_2">
+        Motivamos a mi bebé con palabras dulces, abrazos, besos y sonrisas.
+    </string>
+    <string name="text_m6_p12_desc_3">
+       Mi bebé es muy sensible a los sonidos y reconoce nuestras voces. Le llamamos por su nombre, le cantamos, le ponemos música o le hacemos sonidos como el de un chinchin.
+    </string>
+    <string name="text_m6_p12_desc_4">
+        <b>Las actividades de estimulación las realizamos en familia.</b>
+    </string>
+
+    <!--M6 P13-->
+    <string name="text_m6_p13_title">Evitamos acciones que dañan la salud de mi bebé</string>
+    <string name="text_m6_p13_desc_1">
+        No le damos agua u otros líquidos como atol o café.
+    </string>
+    <string name="text_m6_p13_desc_2">
+        No le damos tomas o purgas, ni medicamentos que no sean indicados por el personal de salud.
+    </string>
+    <string name="text_m6_p13_desc_3">
+        No debemos sacudirle, ni hacerle juegos de asustarle o gritarle.
+    </string>
+    <string name="text_m6_p13_desc_4">
+        No debemos soltarle en el aire, eso puede ocasionarle daño en el cerebro.
+    </string>
+    <string name="text_m6_p13_desc_5">
+        <b>Es importante que ningún miembro de la familia realice estas acciones que dañan la salud de mi bebé.</b>
+    </string>
+
+    <!--M6 P14-->
+    <string name="text_m6_p14_title">Mi salud después del parto</string>
+    <string name="text_m6_p14_desc_1">La mayoría de los <b>cambios</b> en mi cuerpo que ocurrieron durante el embarazo disminuyen o desaparecen meses después del nacimiento de mi bebé.
+        \n\nEs normal que después del parto mi abdomen este grande, esta condición va disminuyendo poco a poco.
+    </string>
+    <string name="text_m6_p14_desc_2">Durante 15-30 días después de dar a luz, presento sangrado vaginal. Me preparo con toallas o mantas.
+    </string>
+    <string name="text_m6_p14_desc_3">Mi regla regresa aproximadamente un mes y medio después de dar a luz. Si le brindo lactancia materna exclusiva a mi bebé mi periodo menstrual
+        se prolongará por más tiempo.
+        \n\nPedimos orientación en el establecimiento de salud sobre los métodos de planificación familiar y cual de ellos es el más indicado para mi.<b>(ver módulo 2: planificación familiar)</b>
+    </string>
+
+    <!--M6 P15-->
+    <string name="text_m6_p15_title">Cuidado de mis pezones</string>
+    <string name="text_m6_p15_desc_1">El dolor en los pezones al inicio de la lactancia materna es normal, no hay nada de que preocuparse.
+        <b>No presiono mis pechos</b>, ya que esto tapa los conductos lácteos y puede crear lesiones en el pezón.
+        \n\nMis pezones producen de manera natural un lubricante para no secarse, agrietarse o que se presenten infecciones.
+    </string>
+    <string name="text_m6_p15_desc_2">Pechos sanos</string>
+    <string name="text_m6_p15_desc_3">Pechos agrietados</string>
+    <string name="text_me_and_my_baby">Mi bebé y yo</string>
+
+    <!--M6 P16-->
+    <string name="text_m6_p16_title">Cuidado de mis pezones</string>
+    <string name="text_m6_p16_desc_1"><b>Para mantener mis pezones saludables:</b></string>
+    <string name="text_m6_p16_desc_2">No uso jabones (pueden causar resequedad y agrietamiento).</string>
+    <string name="text_m6_p16_desc_3">Mantengo secos mis pezones (los limpio con un pañuelo suave).</string>
+    <string name="text_m6_p16_desc_4">Froto con mi leche el pezón después de amamantar para protegerlos.</string>
+    <string name="text_m6_p16_desc_5"><b>Si tengo mucho dolor, fiebre y enrojecimiento consulto en el establecimiento de salud.</b></string>
+
+    <!--M6 P17-->
+    <string name="text_m6_p17_title">Alimentación balanceada después del parto</string>
+    <string name="text_m6_p17_desc_1">Me alimento de manera adecuada comiendo verduras o frutas frescas de diferentes colores, legumbres, pescado, lácteos bajos en grasa <b>(ver módulo 3).</b>
+    \n\nCada comida debe incluir al menos 5 de los 10 grupos de alimentos.
+    \n\nEvito comer alimentos que me ocasionan estreñimiento como: chile, chocolate y queso duro.
+    \n\nEvito consumir alimentos que cambien el sabor a mi leche tales como cebolla, ajo o chile picante. Esto puede ocasionar cólicos e irritación del estómago a mi bebé.
+    \n\nEs muy importante beber abundante agua potable y frescos de frutas naturales, para prevenir la deshidratación.
+    \n\nEs normal tener sed mientras estoy amamantando.</string>
+    <string name="text_m6_p17_desc_2"><b>Consumo alimentos con poca sal, bajos en grasa y en azúcar.</b></string>
+
+    <!--M6 P18-->
+    <string name="text_m6_p18_title">Alimentación balanceada después del parto</string>
+    <string name="text_m6_p18_desc_1">Como 2 comidas adicionales cada día, puede ser una fruta, atol o avena.
+    \n\n<b>Lavo con agua limpia las frutas y las verduras</b> antes de consumirlas.
+    \n\nMe <b>lavo las manos</b> antes y después de haber preparado cada comida, y también,  antes y después de comer.</string>
+
+    <!--M6 P19-->
+    <string name="text_m6_p19_title">Estilo de vida: evito consumir</string>
+    <string name="text_m6_p19_desc_1">Alcohol.</string>
+    <string name="text_m6_p19_desc_2">Drogas.</string>
+    <string name="text_m6_p19_desc_3">Café, gaseosa y té.</string>
+    <string name="text_m6_p19_desc_4">Tabaco.</string>
+    <string name="text_m6_p19_desc_5">También evito exponerme y exponer a mi bebé al humo de cigarro.</string>
+    <string name="text_m6_p19_desc_6"><b>El alcohol, drogas y tabaco pasan por la leche materna y ocasionan daños en la salud de mi bebé.</b></string>
+
+    <!--M6 P20-->
+    <string name="text_m6_p20_title">Hábitos de higiene:</string>
+    <string name="text_m6_p20_desc_1">•Me baño todos los días, con agua limpia y jabón.
+        \n•Cambio mi ropa a diario incluyendo mi ropa interior.</string>
+    <string name="text_m6_p20_desc_2"><b>Me cepillo los dientes</b> 2 o 3  veces al día y en lo posible uso diariamente el hilo dental. </string>
+
+    <string name="text_m6_p20_desc_3">En familia mantenemos la casa y sus alrededores limpios. Evitamos el estancamiento de agua.</string>
+
+    <!--M6 P21-->
+    <string name="text_m6_p21_title">Cambio de humor</string>
+    <string name="text_m6_p21_desc_1">Es normal sentir cambios de humor después del parto, estar irritable, querer llorar, no sentirme feliz, tener miedo por mi bebé y por mi.Esto es un efecto natural debido a los nuevos cambios en mi cuerpo.</string>
+    <string name="text_m6_p21_desc_2"><b>Para sentirme mejor:</b>
+    \n•Hablo sobre mis sentimientos y emociones con mi pareja y familia;
+    \n•Duermo lo suficiente;
+    \n•Despejo mi mente saliendo a caminar, escuchando música o leyendo un libro;
+    \n•Hago actividades en familia con mi bebé, como una caminata si las condiciones de salud lo permiten.</string>
+    <string name="text_m6_p21_desc_3"><b>Si el estado de irritabilidad dura más de 15 días es importante comentarlo con el personal de salud.</b></string>
+
+    <!--M6 P22-->
+    <string name="text_m6_p22_title">Salud sexual</string>
+    <string name="text_m6_p22_desc_1">Será posible reanudar las relaciones sexo- coitales <b>40 días después del parto.</b>
+    \n\nEn caso de haber tenido un desgarro, una episiotomía o una cesárea, es mejor esperar a que las suturas se curen por completo. Preguntamos al personal de salud las dudas que tenemos para iniciar las relaciones sexo- coitales.</string>
+
+    <!--M6 P23-->
+    <string name="text_m6_p23_title">Señales de peligro después del parto</string>
+    <string name="text_m6_p23_desc_1">Acudo <b>inmediatamente</b> al establecimiento de salud si tengo los siguientes signos:</string>
+    <string name="text_m6_p23_desc_2">Sangrado persistente</string>
+    <string name="text_m6_p23_desc_3">Fiebre</string>
+    <string name="text_m6_p23_desc_4">Aumento del dolor en la parte inferior del abdomen, flujo vaginal con mal olor, infección en la herida de la cesárea o episiotomía</string>
+    <string name="text_m6_p23_desc_5">Dolor en la pantorrilla, enrojecimiento e hinchazón de los pies</string>
+
+
+    <!--M6 P24-->
+    <string name="text_m6_p24_title">Señales de peligro después del parto</string>
+    <string name="text_m6_p24_desc_1">Convulsiones</string>
+    <string name="text_m6_p24_desc_2">Cansancio, dificultad para respirar y dolor en el pecho</string>
+    <string name="text_m6_p24_desc_3">Dolor de cabeza con visión borrosa, mareos</string>
+    <string name="text_m6_p24_desc_4">Dificultad y ardor para orinar</string>
+
+    <!--M6 P25-->
+    <string name="text_m6_p25_title">Señales de peligro en mi bebé</string>
+    <string name="text_m6_p25_desc_1">Acudimos <b>inmediatamente</b> al establecimiento de salud si mi bebé presenta los siguientes signos:</string>
+    <string name="text_m6_p25_desc_2">Convulsiones o movimientos anormales</string>
+    <string name="text_m6_p25_desc_3">Ombligo que presenta sangrado, que se vuelve rojo o que tiene mal olor</string>
+    <string name="text_m6_p25_desc_4">Fiebre</string>
+    <string name="text_m6_p25_desc_5">No quiere tomar pecho y pierde peso</string>
+    <string name="text_m6_p25_desc_6">No se mueve como lo hace generalmente</string>
+    <string name="text_m6_p25_desc_7">Piel amarilla</string>
+
+    <!--M6 P26-->
+    <string name="text_m6_p26_title">Post-parto en tiempos de COVID-19</string>
+    <string name="text_m6_p26_title_sub">Cuido mi salud</string>
+    <string name="text_m6_p26_desc_1">Respeto la distancia de al menos 2 metros con otras personas</string>
+    <string name="text_m6_p26_desc_2">Me lavo las manos frecuentemente con agua y jabón</string>
+    <string name="text_m6_p26_desc_3">Me cubro nariz y boca con el antebrazo al estornudar o toser</string>
+
+    <!--M6 P27-->
+    <string name="text_m6_p27_title">Post-parto en tiempos de COVID-19</string>
+    <string name="text_m6_p27_desc_1">Uso la mascarilla de manera correcta (cubriendo nariz y boca)</string>
+    <string name="text_m6_p27_desc_2">Evito tocarme los ojos, la nariz o la boca</string>
+    <string name="text_m6_p27_desc_3">No saludo de mano ni de beso</string>
+
+
+    <!--                     Modulo 7            -->
+
+    <!-- M7 P1 -->
+    <string name="text_m7_p1_title">7. Controles post-parto</string>
+    <string name="text_m7_p1_desc_1">Acudimos a los controles post-parto, allí evalúan mi salud y
+        la de mi bebé.
+    </string>
+
+    <string name="text_m7_p1_i1">Importancia de los controles post-parto.</string>
+    <string name="text_m7_p1_i2">Controles post-parto, atención a la madre.</string>
+    <string name="text_m7_p1_i3">Controles post-parto, atención al bebé.</string>
+    <string name="text_m7_p1_i4">Estimulando el desarrollo de mi bebé. Primer mes</string>
+    <string name="text_m7_p1_i5">Estimulando el desarrollo de mi bebé. De 1 a 2 meses</string>
+    <string name="text_m7_p1_i6">Estimulando el desarrollo de mi bebé. De 2 a 4 meses</string>
+    <string name="text_m7_p1_i7">Estimulando el desarrollo de mi bebé. De 4 a 6 meses</string>
+    <string name="text_m7_p1_i8">Estimulando el desarrollo de mi bebé. De 6 a 8 meses</string>
+    <string name="text_m7_p1_i9">Esquema de vacunación.</string>
+    <string name="text_m7_p1_i10">Planificación familiar.</string>
+    <string name="text_m7_p1_i11">Por una vida libre de violencia contra la mujer y la niñez.</string>
+    <string name="text_m7_p1_i12">Identificación de problemas.</string>
+    <string name="text_m7_p1_i13">Evaluación sobre la atención post-parto.</string>
+    <string name="text_m7_p1_i14">Post-parto en tiempos de COVID-19.</string>
+
+    <!-- M7 P2 -->
+    <string name="text_m7_p2_title">Importancia de los controles\npost-parto</string>
+    <string name="text_m7_p2_desc_1">Es importante acudir a los controles para realizar una
+        evaluación integral post-parto. Estos se realizan en el establecimiento de salud según las
+        citas establecidas.\n\nDependiendo de mi estado de salud y la de mi bebé, me puede cambiar
+        la frecuencia de las consultas.\nAsisto con mi bebé a la primera cita ya que los dos vamos
+        a ser examinados.
+    </string>
+    <string name="text_m7_p2_desc_2">
+        <b>
+            En caso de presentar un signo de alarma, acudo al establecimiento de salud sin esperar
+            la fecha de la próxima cita.
+        </b>
+    </string>
+
+    <!-- M7 P3 -->
+    <string name="text_m7_p3_title">Controles post-parto\natención a la madre</string>
+    <string name="text_m7_p3_desc_1"><b>• Primera cita:</b> del día 1 al 7 después del parto.\n•
+        <b>Segunda cita:</b> 40 días después del parto.
+    </string>
+    <string name="text_m7_p3_desc_2">El personal de salud evalúa mi estado y me pregunta:\n• cómo me
+        siento, si tengo dolor;\n• cómo va mi sueño y la lactancia;\n• cómo está mi sangrado;\n• cómo
+        está mi cicatriz de cesárea y otras cicatrices de parto (si las hubiera).\n\nToman mi presión
+        arterial, peso y temperatura. Me realizan un examen vaginal y palpan delicadamente mi vientre
+        para asegurar que se ha recuperado.
+    </string>
+    <string name="text_m7_p3_desc_3">
+        <b>
+            Hago todas las preguntas sobre de mi estado físico y emocional.
+        </b>
+    </string>
+
+    <!-- M7 P4 -->
+    <string name="text_m7_p4_title">Controles post-parto\natención al bebé</string>
+    <string name="text_m7_p4_desc_1">Acudo al establecimiento de salud con mi bebé a las citas
+        establecidas:\n\n<b>•Primera cita:</b> del día 1 al 7 después del parto. En esta consulta realizamos
+        la inscripción.\n<b>•Siguientes citas:</b> a los 2, 4, 6, 8, 10 y 12 meses.\n\n Los controles
+        infantiles son muy importantes para evaluar: crecimiento, peso, circunferencia cefálica
+        (medida de la cabeza), alimentación, entre otros. De esta manera se puede detectar
+        tempranamente algún problema de salud como: anemia, bajo peso/sobrepeso, bajo crecimiento, etc.
+    </string>
+
+    <!-- M7 P5 -->
+    <string name="text_m7_p5_title">Estimulando el desarrollo de mi bebé.\nPrimer mes</string>
+    <string name="text_m7_p5_desc_1">Le tomamos de las manos y le levantamos con cuidado.</string>
+    <string name="text_m7_p5_desc_2">Pongo en contacto mi pezón con la mejilla de mi bebé para que
+        busque el pecho.
+    </string>
+    <string name="text_m7_p5_desc_3">Le cargamos, hablamos y acariciamos.</string>
+    <string name="text_m7_p5_desc_4">Le tranquilizamos cuando llora, tratando de identificar el
+        motivo de su llanto.
+    </string>
+    <string name="text_m7_p5_desc_5">Colgamos objetos que llamen su atención por su forma,
+        sonido y color.
+    </string>
+
+    <!-- M7 P6 -->
+    <string name="text_m7_p6_title">Estimulando el desarrollo de mi bebé.\nDe 1 a 2 meses</string>
+    <string name="text_m7_p6_desc_1">Le acostamos boca abajo y le pasamos un dedo sobre la espalda.</string>
+    <string name="text_m7_p6_desc_2">Ponemos el dedo índice en la palma de la mano de mi bebé.</string>
+    <string name="text_m7_p6_desc_3">Le hablamos y le hacemos gestos expresivos.</string>
+    <string name="text_m7_p6_desc_4">Estando cara a cara con mi bebé le hacemos diferentes sonidos para que los repita.</string>
+    <string name="text_m7_p6_desc_5">Movemos de un lado a otro un objeto sonoro frente al rostro de mi bebé (a una distancia de 20 a 30 cm).</string>
+
+    <!-- M7 P7 -->
+    <string name="text_m7_p7_title">Estimulando el desarrollo de mi bebé.\nDe 2 a 4 meses</string>
+    <string name="text_m7_p7_desc_1">Le acostamos boca abajo varias veces al día.</string>
+    <string name="text_m7_p7_desc_2">Colocamos la palma de la mano haciendo presión en los dedos de mi bebé.</string>
+    <string name="text_m7_p7_desc_3">Le hablamos y le cantamos canciones de cuna. También le leemos libros infantiles.</string>
+    <string name="text_m7_p7_desc_4">Repetimos los sonidos que hace mi bebé.</string>
+    <string name="text_m7_p7_desc_5">Colocamos objetos en su mano para que pueda verlos y sentirlos.</string>
+
+    <!-- M7 P8 -->
+    <string name="text_m7_p8_title">Estimulando el desarrollo de mi bebé.\nDe 4 a 6 meses</string>
+    <string name="text_m7_p8_desc_1">Le colocamos boca abajo estimulándole para que se voltee</string>
+    <string name="text_m7_p8_desc_2">Le mostramos un juguete y le motivamos a que lo tome.</string>
+    <string name="text_m7_p8_desc_3">Le preguntamos dónde está mamá o alguien de la familia para que le señale.</string>
+    <string name="text_m7_p8_desc_4">Le hablamos, cantamos y leemos libros.</string>
+    <string name="text_m7_p8_desc_5">Le mostramos objetos llamativos.</string>
+
+    <!-- M7 P9 -->
+    <string name="text_m7_p9_title">Estimulando el desarrollo de mi bebé.\nDe 6 a 8 meses</string>
+    <string name="text_m7_p9_desc_1">Le ayudamos a sentarse unos segundos en un lugar seguro.</string>
+    <string name="text_m7_p9_desc_2">Dejamos juguetes u objetos al frente para que pueda explorarlos.</string>
+    <string name="text_m7_p9_desc_3">Le acercamos a otros niños/as.</string>
+    <string name="text_m7_p9_desc_4">Le hacemos saber que entendemos el significado de sus gestos y se lo decimos con palabras.</string>
+    <string name="text_m7_p9_desc_5">Colocamos juguetes para que los vea y los recupere.</string>
+
+    <!-- M7 P10 -->
+    <string name="text_m7_p10_title">Esquema de vacunación</string>
+    <string name="text_m7_p10_desc_1">Durante el control infantil me explican que las vacunas protegen de enfermedades graves a mi bebé y
+        que su aplicación oportuna puede salvar vidas.\n\n Me aseguro de que mi bebé reciba todas las vacunas recomendadas, con el objetivo de
+        protegerle de enfermedades de mayor frecuencia en la infancia.\n\n Me explican el Esquema de Vacunación establecido por el Ministerio de Salud
+        incluyendo la edad en la que se debe administrar cada vacuna.</string>
+
+
+    <!-- M7 P11 -->
+    <string name="text_m7_p11_title">Esquema Nacional de Vacunación </string>
+
+    <!-- M7 P12 -->
+    <string name="text_m7_p12_title">Esquema Nacional de Vacunación</string>
+
+    <!-- M7 P13 -->
+    <string name="text_m7_p13_title">Planificación familiar</string>
+    <string name="text_m7_p13_desc_1">Es importante recordar que el inicio de las relaciones sexo-coitales se recomienda después de los 40 días post-parto.
+        \nAcudo con mi pareja al establecimiento de salud para que nos orienten sobre el método de planificación más conveniente, ya sea permanente o temporal.</string>
+
+    <!-- M7 P14 -->
+    <string name="text_m7_p14_title">Métodos de planificación familiar</string>
+    <string name="text_m7_p14_desc_1">Temporales</string>
+    <string name="text_m7_p14_desc_2">Lactancia materna exclusiva</string>
+    <string name="text_m7_p14_desc_3">Dispositivo intrauterino</string>
+    <string name="text_m7_p14_desc_4">Pastillas anticonceptivas</string>
+    <string name="text_m7_p14_desc_5">Inyecciones</string>
+    <string name="text_m7_p14_desc_6">Preservativos masculinos y femeninos</string>
+    <string name="text_m7_p14_desc_7">Implante subdérmico</string>
+    <string name="text_m7_p14_desc_8">Permanentes</string>
+    <string name="text_m7_p14_desc_9">Esterilización femenina</string>
+    <string name="text_m7_p14_desc_10">Esterilización masculina</string>
+
+    <!-- M7 P15 -->
+    <string name="text_m7_p15_title">Por una Vida Libre de Violencia contra la mujer y la niñez</string>
+    <string name="text_m7_p15_desc_1">Si un niño/a está siendo vulnerado se debe buscar ayuda en las instituciones que conforman el sistema de protección de la niñez.</string>
+    <string name="text_m7_p15_desc_2">Se debe recordar que si la madre sufre algún tipo de violencia, la sufre el bebé o cualquier miembro de la familia, se informa inmediatamente al personal de salud o llamar a alguno de los siguientes  números:</string>
+
+    <!-- M7 P16 -->
+    <string name="text_m7_p16_title">Identificación de problemas</string>
+    <string name="text_m7_p16_desc_1">Si el personal de salud identifica alguna situación como: problemas de lactancia, infecciones vaginales, presión alta, entre otros, me brindan asesoría y, si es necesario, me recetan medicamentos o me programan exámenes.</string>
+    <string name="text_m7_p16_desc_2">El personal de salud anota toda la información en mi tarjeta de control, me explica y resuelve mis dudas.</string>
+    <string name="text_m7_p16_desc_3">Si se identifican problemas más graves, el personal de salud me explica la situación y me remite al hospital.</string>
+
+
+    <!-- M7 P17 -->
+    <string name="text_m7_p17_title">Evaluación sobre la atención post-parto</string>
+    <string name="text_m7_p17_desc_1">Doy mi opinión en diferentes espacios sobre cómo me siento o cómo he sido atendida en los establecimientos de salud: hospital, hogar de espera materna, UCSF.</string>
+    <string name="text_m7_p17_desc_2">Participo en diferentes actividades que el establecimiento de salud realiza: entrevistas,  encuestas, reuniones, charlas o lo expreso a través del buzón de sugerencias.</string>
+    <string name="text_m7_p17_desc_3">Hablo con otras mujeres y liderazgos de mi comunidad sobre la manera que me trataron, la atención que recibí, los problemas relacionados a las consultas post-parto y, en conjunto, compartimos nuestras opiniones con el personal de salud.</string>
+
+    <!-- M7 P18 -->
+    <string name="text_m7_p18_title">Post-parto en tiempos de COVID-19:</string>
+    <string
+        name="text_m7_p18_desc_1"><b>Asisto a mi control post-parto con mi bebé,</b> según las citas programadas.
+    </string>
+    <string
+        name="text_m7_p18_desc_2"><b>Para ingresar al establecimiento de salud, mi acompañante y yo:</b>\n
+        •usamos la mascarilla de manera correcta;\n
+        • desinfectamos nuestro calzado antes de entrar;\n
+        • nos toman la temperatura;\n
+        • lavamos nuestras manos con abundante agua y jabón o nos proporcionan alcohol gel;\n
+        • me preguntan si he tenido (o algún miembro de mi familia): fiebre, tos, dolor de cabeza, dolor de cuerpo y/o dolor de garganta.
+    </string>
+    <!-- M7 P19 -->
+    <string name="text_m7_p19_title">Post-parto en tiempos de COVID-19:</string>
+    <string
+        name="text_m7_p19_desc_1"><b>Recomendaciones para la prevención:</b>
+    </string>
+    <string
+        name="text_m7_p19_desc_2">• uso la mascarilla de manera correcta (cubriendo nariz y boca);
+    </string>
+    <string
+        name="text_m7_p19_desc_3">• si mi bebé es menor de 2 años, le pongo careta de protección. Si es mayor puede usar la mascarilla;
+    </string>
+    <string
+        name="text_m7_p19_desc_4">• no saludo de mano ni de beso;
+    </string>
+    <string
+        name="text_m7_p19_desc_5">• evito tocarme los ojos, la nariz o la boca y evito tocar los de mi bebé (solo lo hago cuando sea necesario y con las manos limpias);
+    </string>
+
+    <!-- M7 P20 -->
+    <string name="text_m7_p20_title">Post-parto en tiempos de COVID-19:</string>
+    <string
+        name="text_m7_p20_desc_1"><b>Recomendaciones para la prevención:</b>
+    </string>
+    <string
+        name="text_m7_p20_desc_2">• me cubro nariz y boca con el antebrazo al estornudar o toser;
+    </string>
+    <string
+        name="text_m7_p20_desc_3">• respeto la distancia de al menos 2 metros con otras personas;
+    </string>
+    <string
+        name="text_m7_p20_desc_4">• evito que personas fuera de mi entorno familiar carguen o toquen a mi bebé;
+    </string>
+    <string
+        name="text_m7_p20_desc_5">• me lavo las manos frecuentemente con agua y jabón.
+    </string>
+
+
+    <!-- M7 P21 -->
+    <string name="text_m7_p21_title">Post-parto en tiempos de COVID-19:</string>
+    <string
+        name="text_m7_p21_desc_1">El personal de salud me informa que debo continuar con los cuidados tomándome el
+        Sulfato Ferroso (Hierro), el Acido Fólico y el Calcio.
+    </string>
+    <string
+        name="text_m7_p21_desc_2"><b>Informo al personal de salud si tenemos algún síntoma de COVID-19:</b>\n
+        • dolor de garganta, tos (especialmente seca);\n
+        • dificultad para respirar y dolor de pecho;\n
+        • fiebre;\n
+        • pérdida repentina del olfato y/o el gusto;\n
+        • dolor de cabeza, decaimiento y sensación de malestar;\n
+        • náuseas, vómito y diarrea;\n
+        • erupciones en la piel.
+    </string>
+
+
+    <!-- M7 P22 -->
+    <string name="text_m7_p22_title">Post-parto en tiempos de COVID-19:</string>
+    <string
+        name="text_m7_p22_desc_1">Expreso mis preocupaciones al personal de salud, sobre la salud de mi bebé en tiempos de COVID-19.
+    </string>
+
+
+</resources>

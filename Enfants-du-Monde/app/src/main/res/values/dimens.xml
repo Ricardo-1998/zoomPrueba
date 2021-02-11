@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Margin-->
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+
+    <!--Padding-->
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_12dp">12dp</dimen>
+
+    <!--Text size-->
+    <dimen name="size_12sp">12sp</dimen>
+    <dimen name="size_16sp">16sp</dimen>
+    <dimen name="size_20sp">20sp</dimen>
+    <dimen name="size_22sp">22sp</dimen>
+    <dimen name="size_18sp">18sp</dimen>
+    <dimen name="size_14sp">14sp</dimen>
+
+    <!--View size-->
+    <dimen name="size_cv">200dp</dimen>
+    <dimen name="size_bottom_buttons">100dp</dimen>
+
+    <!--width-->
+    <dimen name="width_100dp">100dp</dimen>
+    <dimen name="width_iv_module">125dp</dimen>
+
+    <!--Height-->
+    <dimen name="height_100dp">100dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="height_iv_module">125dp</dimen>
+
+
+    <!--Others-->
+    <dimen name="cv_elevation">8dp</dimen>
+    <dimen name="cv_corner_radius">12dp</dimen>
+    <dimen name="margin_50dp">50dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="size_100dp">100dp</dimen>
+    <dimen name="size_150dp">150dp</dimen>
+    <dimen name="size_200dp">200dp</dimen>
+    <dimen name="size_300dp">300dp</dimen>
+    <dimen name="size_350dp">350dp</dimen>
+    <dimen name="size_400dp">400dp</dimen>
+    <dimen name="size_250dp">250dp</dimen>
+
+
+</resources>
